@@ -20,7 +20,7 @@ editor: visual
 
 [An information system for the collection, storage, processing and dissemination of various data (fisheries, on-board observers, VMS, surveys, etc.)]{style="color:#ffffff; font-size: 1.25em"}
 
-[Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Antoine Duparc (antoine.duparc\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Laurent Floc'h (laurent.floch.ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.75em"}
+[Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Antoine Duparc (antoine.duparc\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Laurent Floc'h (laurent.floch.ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/><br/><br/> [© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.4em"}
 
 ![](images/logo_ob7.png){.absolute top="510" width="10%"} ![](images/logo_marbec.png){.absolute top="515" left="150" width="12%"} ![](images/logo_ird.png){.absolute top="530" left="300" width="14%"}
 
@@ -563,11 +563,9 @@ Size distribution (YFT-2020) ![](images/size_distribution_yft_2020.png)
 
 ##  {background-image="images/end_page.png"}
 
-[Thank you for your attention,<br/> do you have any questions?]{style="color:#ffffff; font-size: 2.5em"}
+<br/> <br/> [Thank you for your attention,<br/> do you have any questions?]{style="color:#ffffff; font-size: 2.5em"}
 
-![](images/logo_ob7.png){.absolute top="510" width="10%"} ![](images/logo_marbec.png){.absolute top="515" left="150" width="12%"} ![](images/logo_ird.png){.absolute top="530" left="300" width="14%"}
-
-[© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.75em"}
+![](images/logo_ob7.png){.absolute top="510" width="10%"} ![](images/logo_marbec.png){.absolute top="515" left="150" width="12%"} ![](images/logo_ird.png){.absolute top="530" left="300" width="14%"} <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> [© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.4em"}
 
 # Jeu de rôle
 
@@ -615,11 +613,10 @@ Size distribution (YFT-2020) ![](images/size_distribution_yft_2020.png)
     -   Volonté commune d'[avancer]{style="color:#9a1c1f"} sur le sujet
     -   N'oubliez pas d'être [bienveillant]{style="color:#9a1c1f"} et [constructifs]{style="color:#9a1c1f"} entre vous !
 
-## Pour vous guider 
+## Pour vous guider
 
 ### [Agenda de la réunion]{style="color:#00a9d6"}
 
--	Choix du système (RDBES/RDBFIS/Autre système) 
--	Quels investissements humain et financier pour chaque pays ?
--	Plan d’action (court, moyen et long terme)
-
+-   Choix du système (RDBES/RDBFIS/Autre système)
+-   Quels investissements humain et financier pour chaque pays ?
+-   Plan d'action (court, moyen et long terme)
