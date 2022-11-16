@@ -13,6 +13,6 @@ Materials related to the role play are in the directory role_play_rcg. The zip a
 Contributors contacts:
 - Mathieu Depetris (mathieu.depetris@ird.fr)
 - Antoine Duparc (antoine.duparc@ird.fr)
-- Laurent Floc'h (laurent.floch.ird.fr)
+- Laurent Floc'h (laurent.floch@ird.fr)
 - Esther Mollier (esther.mollier@ird.fr)
 
