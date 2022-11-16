@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-
+training_aerme_files/
+training_aerme.html
 /.quarto/
