@@ -20,15 +20,7 @@ editor: visual
 
 [An information system for the collection, storage, processing and dissemination of various data (fisheries, on-board observers, VMS, surveys, etc.)]{style="color:#ffffff; font-size: 1.25em"}
 
-[Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"}
-<br/>
-[Antoine Duparc (antoine.duparc\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"}
-<br/>
-[Laurent Floc'h (laurent.floch.ird.fr)]{style="color:#ffffff; font-size: 0.75em"}
-<br/>
-[Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"}
-<br/>
-[[© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.75em"}]{.absolute top="550" left="800"}
+[Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Antoine Duparc (antoine.duparc\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Laurent Floc'h (laurent.floch.ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.75em"}
 
 ![](images/logo_ob7.png){.absolute top="510" width="10%"} ![](images/logo_marbec.png){.absolute top="515" left="150" width="12%"} ![](images/logo_ird.png){.absolute top="530" left="300" width="14%"}
 
@@ -571,11 +563,11 @@ Size distribution (YFT-2020) ![](images/size_distribution_yft_2020.png)
 
 ##  {background-image="images/end_page.png"}
 
-[[Thank you for your attention,<br/> do you have any questions?]{style="color:#ffffff; font-size: 2.5em"}]{.absolute top="250"}
+[Thank you for your attention,<br/> do you have any questions?]{style="color:#ffffff; font-size: 2.5em"}
 
 ![](images/logo_ob7.png){.absolute top="510" width="10%"} ![](images/logo_marbec.png){.absolute top="515" left="150" width="12%"} ![](images/logo_ird.png){.absolute top="530" left="300" width="14%"}
 
-[[© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.75em"}]{.absolute top="550" left="800"}
+[© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.75em"}
 
 # Jeu de rôle
 
