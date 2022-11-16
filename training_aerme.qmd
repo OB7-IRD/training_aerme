@@ -615,6 +615,11 @@ Size distribution (YFT-2020) ![](images/size_distribution_yft_2020.png)
     -   Volonté commune d'[avancer]{style="color:#9a1c1f"} sur le sujet
     -   N'oubliez pas d'être [bienveillant]{style="color:#9a1c1f"} et [constructifs]{style="color:#9a1c1f"} entre vous !
 
-## Posez-vous des questions !
+## Pour vous guider 
 
-### [Servez-vous du document "supports_role_play_fr"]{style="color:#00a9d6"}
+### [Agenda de la réunion]{style="color:#00a9d6"}
+
+-	Choix du système (RDBES/RDBFIS/Autre système) 
+-	Quels investissements humain et financier pour chaque pays ?
+-	Plan d’action (court, moyen et long terme)
+
