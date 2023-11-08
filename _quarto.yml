@@ -11,7 +11,7 @@ website:
       - text: Presentations
         menu:
           - href: materials/global_presentation.qmd
-            text: "Global"
+            text: "Introduction"
           - href: materials/role_play_presentation.qmd
             text: "Role play"
     tools:

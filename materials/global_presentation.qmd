@@ -15,7 +15,7 @@ editor: visual
 
 [Tropical Tuna Fisheries]{style="color:#ffffff; font-size: 2em"}
 
-[From data to management measures, a challenge for sustainable exploitation]{style="color:#ffffff; font-size: 1.80em"} <br/> <br/> <br/> <br/> [Océane Bouhineau (oceane.bouhineau\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Antoine Duparc (antoine.duparc\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Théotime Fily (theotime.fily\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Clara Lerebourg (clara.lerebourg\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> <br/> <br/> <br/> [© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.4em"}
+[From data to management measures, a challenge for sustainable exploitation]{style="color:#ffffff; font-size: 1.80em"} <br/> <br/> <br/> <br/> [Océane Bouhineau (oceane.bouhineau\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Théotime Fily (theotime.fily\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Clara Lerebourg (clara.lerebourg\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> <br/> <br/> <br/> [© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.4em"}
 
 ![](images/logo_obs7_pg.png){.absolute top="600" right="200" width="10%"} ![](images/logo_ird.png){.absolute top="620" right="-100" width="14%"} ![](images/logo_marbec.png){.absolute top="605" right="50" width="12%"}
 
@@ -46,7 +46,7 @@ editor: visual
 :::
 
 ::: {.column width="50%"}
-<br/> The Observatory : <br/> <br/> - is a [**set of resources**]{style="color:#9a1c1f"} (human and material) under the umbrella of the [**French National Research Institute for Sustainable Development**]{style="color:#9a1c1f"} (IRD). <br/> <br/> - under the responsability of [**Julien Lebranchu**]{style="color:#9a1c1f"} (julien.lebranchu\@ird.fr) coeur avec les doigts.
+<br/> The Observatory: <br/> <br/> - is a [**set of resources**]{style="color:#9a1c1f"} (human and material) under the umbrella of the [**French National Research Institute for Sustainable Development**]{style="color:#9a1c1f"} (IRD). <br/> <br/> - under the responsability of [**Julien Lebranchu**]{style="color:#9a1c1f"} (julien.lebranchu\@ird.fr).
 :::
 :::
 
@@ -96,18 +96,18 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ::: columns
 ::: {.column width="70%"}
--   Each country exploiting fisheries resources must declare its activities (capacity, effort and capture)
+-   Each country exploiting fisheries resources must declare its activities ([**transversal variables**]{style="color:#9a1c1f"} like capacity, effort and capture)
 
--   To who ?
+-   To whom and why?
 
-    -   [**European Commission**]{style="color:#9a1c1f"} to manage [**fisheries agreements**]{style="color:#9a1c1f"}
-    -   [**RFMOs**]{style="color:#9a1c1f"} ([**R**]{style="color:#9a1c1f"}egional [**F**]{style="color:#9a1c1f"}isheries [**M**]{style="color:#9a1c1f"}anagement [**O**]{style="color:#9a1c1f"}rganisations): to manage [**population dynamics**]{style="color:#9a1c1f"}
+    -   [**European Commission**]{style="color:#9a1c1f"}, if EU member, used for example regarding [**fisheries agreements**]{style="color:#9a1c1f"}
+    -   [**RFMOs**]{style="color:#9a1c1f"} ([**R**]{style="color:#9a1c1f"}egional [**F**]{style="color:#9a1c1f"}isheries [**M**]{style="color:#9a1c1f"}anagement [**O**]{style="color:#9a1c1f"}rganisations) to manage [**population dynamics**]{style="color:#9a1c1f"}
 :::
 
 ::: {.column width="30%"}
-![](images/boat_capacity.png){.absolute top="100" left="750" width="25%"}
+![](images/boat_capacity.png){.absolute top="100" left="800" width="22%"}
 
-![](images/capture_effort.png){.absolute top="400" left="800" width="15%"}
+![](images/capture_effort.png){.absolute top="400" left="830" width="13%"}
 :::
 :::
 
@@ -116,38 +116,35 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 ### Target species and bycatch {style="color:#00a9d6; font-size: 1.5em"}
 
 -   Major tunas
-    -   Yellowfin tuna (YFT, *Thunnus albacares*) ![](images/YFT.jpg){.absolute top="125" left="585" width="30%"} <br/> <br/>
-    -   Bigeye tuna (BET, *Thunnus obesus*) ![](images/BET.jpg){.absolute top="250" left="550" width="25%"} <br/> <br/>
-    -   Skipjack tuna (SKJ, *Katsuwonus pelamis*) ![](images/SKJ.jpg){.absolute top="355" left="725" width="25%"} <br/> <br/>
-    -   Albacore tuna (ALB, *Thunnus alalunga*) ![](images/ALB.jpg){.absolute top="495" left="550" width="35%"}
+    -   Yellowfin tuna (YFT, *Thunnus albacares*) ![](images/YFT.jpg){.absolute top="170" left="745" width="25%"} <br/> <br/>
+    -   Bigeye tuna (BET, *Thunnus obesus*) ![](images/BET.jpg){.absolute top="260" left="530" width="24%"} <br/> <br/>
+    -   Skipjack tuna (SKJ, *Katsuwonus pelamis*) ![](images/SKJ.jpg){.absolute top="350" left="780" width="25%"} <br/> <br/>
+    -   Albacore tuna (ALB, *Thunnus alalunga*) ![](images/ALB.jpg){.absolute top="450" left="575" width="25%"}
 
 ## What are we focusing on? {auto-animate="true"}
 
 ### Target species and bycatch {style="color:#00a9d6; font-size: 1.5em"}
 
--   Major tunas
 -   Neritic tunas <br/>
-    -   Bullet tuna (BLT, *Auxis rochei*) ![](images/BLT.jpg){.absolute top="205" left="480" width="25%"} <br/> <br/>
-    -   Frigate tuna (FRI, *Auxis thazard*) ![](images/FRI.jpg){.absolute top="285" left="725" width="25%"} <br/> <br/>
-    -   Kawakawa (KAW, *Euthynnus affinis*) ![](images/KAW.jpg){.absolute top="395" left="550" width="25%"} <br/> <br/>
-    -   Atlantic bonito (BON, *Sarda sarda*) ![](images/BON.jpg){.absolute top="500" left="725" width="25%"}
+    -   Bullet tuna (BLT, *Auxis rochei*) ![](images/BLT.jpg){.absolute top="180" left="480" width="25%"} <br/> <br/>
+    -   Frigate tuna (FRI, *Auxis thazard*) ![](images/FRI.jpg){.absolute top="260" left="680" width="25%"} <br/> <br/>
+    -   Kawakawa (KAW, *Euthynnus affinis*) ![](images/KAW.jpg){.absolute top="350" left="550" width="25%"} <br/> <br/>
+    -   Atlantic bonito (BON, *Sarda sarda*) ![](images/BON.jpg){.absolute top="465" left="650" width="25%"}
 
 ## What are we focusing on? {auto-animate="true"}
 
 ### Target species and bycatch {style="color:#00a9d6; font-size: 1.5em"}
 
--   Major tunas
--   Neritic tunas
 -   Billfish and pelagic sharks species <br/>
-    -   Swordfish (SWO, *Xiphias gladius*) ![](images/SWO.jpg){.absolute top="95" left="570" width="25%"} <br/>
-    -   Sailfish (SAI, *Istiophorus albicans*) ![](images/SAI.jpg){.absolute top="200" left="460" width="25%"} <br/>
-    -   Blue marlin (BUM, *Makaira nigricans*) ![](images/BUM.jpg){.absolute top="305" left="650" width="25%"} <br/>
-    -   Blue shark (BSH, *Prionace glauca*) ![](images/BSH.jpg){.absolute top="445" left="770" width="25%"} <br/>
+    -   Swordfish (SWO, *Xiphias gladius*) ![](images/SWO.jpg){.absolute top="170" left="550" width="25%"} <br/> <br/>
+    -   Sailfish (SAI, *Istiophorus albicans*) ![](images/SAI.jpg){.absolute top="265" left="620" width="25%"} <br/> <br/>
+    -   Blue marlin (BUM, *Makaira nigricans*) ![](images/BUM.jpg){.absolute top="360" left="600" width="25%"} <br/> <br/>
+    -   Blue shark (BSH, *Prionace glauca*) ![](images/BSH.jpg){.absolute top="465" left="550" width="25%"} <br/> <br/>
     -   Oceanic whitetip shark (OCS, *Carcharhinus longimanus*) ![](images/OCS.jpg){.absolute top="535" left="785" width="25%"}
 
 ## What are we focusing on?
 
-### Fishing gear {style="color:#00a9d6; font-size: 1.5em"}
+### Fishing gears {style="color:#00a9d6; font-size: 1.5em"}
 
 -   Bait boats
 
@@ -157,7 +154,6 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ### Fishing gear {style="color:#00a9d6; font-size: 1.5em"}
 
--   Bait boats
 -   Longlines
 
 ![](images/palangre.jpg){.absolute top="135" left="315" width="70%"}
@@ -166,8 +162,6 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ### Fishing gear {style="color:#00a9d6; font-size: 1.5em"}
 
--   Bait boats
--   Longlines
 -   Purse seiners
 
 ![](images/seiners.jpg){.absolute top="120" left="290" width="70%"}
@@ -182,10 +176,9 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 :::
 
 ::: {.column width="50%"}
-:::
-:::
-
 ![](images/free_school.jpg){.absolute top="220" left="200" width="60%"}
+:::
+:::
 
 ## What are we focusing on? {auto-animate="true"}
 
@@ -193,33 +186,17 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ::: columns
 ::: {.column width="50%"}
--   Free school
-
-![](images/free_school.jpg){.absolute top="300" left="00" width="50%"}
-:::
-
-::: {.column width="50%"}
 -   FOBs: [**F**]{style="color:#9a1c1f"}loating [**OB**]{style="color:#9a1c1f"}jects
-    -   [**natural**]{style="color:#9a1c1f"}
+<br/> [**natural**]{style="color:#9a1c1f"}
 
-![](images/dcp_natural.jpg){.absolute top="300" left="540" width="48%"}
-:::
-:::
-
-## What are we focusing on?
-
-### Purse seine school type {style="color:#00a9d6; font-size: 1.5em"}
-
-::: columns
-::: {.column width="50%"}
-![](images/radeau.jpg){.absolute top="150" left="10" width="38%"}
+![](images/dcp_natural.jpg){.absolute top="280" left="10" width="40%"}
 :::
 
 ::: {.column width="50%"}
--   FOBs: [**F**]{style="color:#9a1c1f"}loating [**OB**]{style="color:#9a1c1f"}jects
-    -   [**artificial**]{style="color:#9a1c1f"}
+<br/>
+      [**artificial**]{style="color:#9a1c1f"}
 
-![](images/dcp_artificial.jpg){.absolute top="312" left="450" width="45%"}
+![](images/dcp_artificial.jpg){.absolute top="280" left="520" width="42%"}
 :::
 :::
 
