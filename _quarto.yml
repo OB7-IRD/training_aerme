@@ -2,12 +2,36 @@ project:
   type: website
 
 website:
-  title: "training_aerme_new"
+  title: "AERME training session 2023"
+  repo-url: https://ob7-ird.github.io/training_aerme_new/
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: Presentations
+        menu:
+          - href: materials/global_presentation.qmd
+            text: "Global"
+          - href: materials/role_play_presentation.qmd
+            text: "Role play"
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url: https://github.com/OB7-IRD/training_aerme_new
+          - text: Report a Bug
+            url: https://github.com/OB7-IRD/training_aerme_new/issues
+  sidebar: 
+    style: "docked"
+    search: true
+    contents: 
+      - section: "Presentations"
+        contents: 
+          - materials/global_presentation.qmd
+          - materials/role_play_presentation.qmd
+  search: 
+    location: navbar
+    type: overlay
 
 format:
   html:
