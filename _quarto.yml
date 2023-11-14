@@ -35,7 +35,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: lumen
     css: styles.css
     toc: true
 
