@@ -5,8 +5,8 @@ format:
     scrollable: true
     slide-number: c/t
     chalkboard: true 
-    theme: ../template/theme_perso.scss
-    logo: ../template/logo_ob7.png
+    theme: template/theme_perso.scss
+    logo: template/logo_ob7.png
     footer: "[https://github.com/OB7-IRD/training_aerme](https://github.com/OB7-IRD/training_aerme)"
 editor: visual
 ---
