@@ -1,52 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "“Approche Écosystémique des Ressources Marines Exploitées” (AERME)",
-    "section": "",
-    "text": "This website gather all materials related to the 2023 module AERME for the topic session “Les pêcheries thonières tropicales : des données aux mesures de gestion, un défi pour l’exploitation durable”.\nContributors contacts:\n\nOcéane Bouhineau (oceane.bouhineau@ird.fr)\nMathieu Depetris (mathieu.depetris@ird.fr)\nAntoine Duparc (antoine.duparc@ird.fr)\nThéotime Fily (theotime.fily@ird.fr)\nClara Lerebourg (clara.lerebourg@ird.fr)\nEsther Mollier (esther.mollier@ird.fr)"
-  },
-  {
     "objectID": "materials/global_presentation.html#what-is-it",
     "href": "materials/global_presentation.html#what-is-it",
     "title": "AERME training session 2023",
-    "section": "What is it ?",
-    "text": "What is it ?"
+    "section": "What is it?",
+    "text": "What is it?"
   },
   {
     "objectID": "materials/global_presentation.html#what-is-it-1",
     "href": "materials/global_presentation.html#what-is-it-1",
     "title": "AERME training session 2023",
-    "section": "What is it ?",
-    "text": "What is it ?"
+    "section": "What is it?",
+    "text": "What is it?\n\n\n\n\nThe Observatory:\n\nis a set of resources (human and material) under the umbrella of the French National Research Institute for Sustainable Development (IRD),\nunder the responsability of Julien Lebranchu (julien.lebranchu@ird.fr)."
   },
   {
     "objectID": "materials/global_presentation.html#what-is-it-2",
     "href": "materials/global_presentation.html#what-is-it-2",
     "title": "AERME training session 2023",
-    "section": "What is it ?",
-    "text": "What is it ?\n\n\n  \n\n The Observatory:   - is a set of resources (human and material) under the umbrella of the French National Research Institute for Sustainable Development (IRD).   - under the responsability of Julien Lebranchu (julien.lebranchu@ird.fr)."
+    "section": "What is it?",
+    "text": "What is it?\n\n\n\n\nof exploited ressources"
   },
   {
     "objectID": "materials/global_presentation.html#what-is-it-3",
     "href": "materials/global_presentation.html#what-is-it-3",
     "title": "AERME training session 2023",
-    "section": "What is it ?",
-    "text": "What is it ?\n\n\n  \n\nof exploited ressources"
+    "section": "What is it?",
+    "text": "What is it?\n\n\n\n\nfocused on a tropical"
   },
   {
     "objectID": "materials/global_presentation.html#what-is-it-4",
     "href": "materials/global_presentation.html#what-is-it-4",
     "title": "AERME training session 2023",
-    "section": "What is it ?",
-    "text": "What is it ?\n\n\n  \n\nfocused on a tropical"
-  },
-  {
-    "objectID": "materials/global_presentation.html#what-is-it-5",
-    "href": "materials/global_presentation.html#what-is-it-5",
-    "title": "AERME training session 2023",
-    "section": "What is it ?",
-    "text": "What is it ?\n\n\n  \n\nand pelagic area"
+    "section": "What is it?",
+    "text": "What is it?\n\n\n\n\nand pelagic area"
   },
   {
     "objectID": "materials/global_presentation.html#why-do-we-need-this-kind-of-structure",
@@ -60,21 +46,21 @@
     "href": "materials/global_presentation.html#what-are-we-focusing-on",
     "title": "AERME training session 2023",
     "section": "What are we focusing on?",
-    "text": "What are we focusing on?\nTarget species and bycatch\n\nMajor tunas\n\nYellowfin tuna (YFT, Thunnus albacares)   \nBigeye tuna (BET, Thunnus obesus)   \nSkipjack tuna (SKJ, Katsuwonus pelamis)   \nAlbacore tuna (ALB, Thunnus alalunga)"
+    "text": "What are we focusing on?\nTarget species and bycatch\n\nMajor tunas\n\nYellowfin tuna (YFT, Thunnus albacares) \nBigeye tuna (BET, Thunnus obesus) \nSkipjack tuna (SKJ, Katsuwonus pelamis) \nAlbacore tuna (ALB, Thunnus alalunga)"
   },
   {
     "objectID": "materials/global_presentation.html#what-are-we-focusing-on-1",
     "href": "materials/global_presentation.html#what-are-we-focusing-on-1",
     "title": "AERME training session 2023",
     "section": "What are we focusing on?",
-    "text": "What are we focusing on?\nTarget species and bycatch\n\nNeritic tunas \n\nBullet tuna (BLT, Auxis rochei)   \nFrigate tuna (FRI, Auxis thazard)   \nKawakawa (KAW, Euthynnus affinis)   \nAtlantic bonito (BON, Sarda sarda)"
+    "text": "What are we focusing on?\nTarget species and bycatch\n\nNeritic tunas\n\nBullet tuna (BLT, Auxis rochei)  \nFrigate tuna (FRI, Auxis thazard) \nKawakawa (KAW, Euthynnus affinis) \nAtlantic bonito (BON, Sarda sarda)"
   },
   {
     "objectID": "materials/global_presentation.html#what-are-we-focusing-on-2",
     "href": "materials/global_presentation.html#what-are-we-focusing-on-2",
     "title": "AERME training session 2023",
     "section": "What are we focusing on?",
-    "text": "What are we focusing on?\nTarget species and bycatch\n\nBillfish and pelagic sharks species \n\nSwordfish (SWO, Xiphias gladius)   \nSailfish (SAI, Istiophorus albicans)   \nBlue marlin (BUM, Makaira nigricans)   \nBlue shark (BSH, Prionace glauca)   \nOceanic whitetip shark (OCS, Carcharhinus longimanus)"
+    "text": "What are we focusing on?\nTarget species and bycatch\n\nBillfish and pelagic sharks species\n\nSwordfish (SWO, Xiphias gladius) \nSailfish (SAI, Istiophorus albicans) \nBlue marlin (BUM, Makaira nigricans) \nBlue shark (BSH, Prionace glauca) \nOceanic whitetip shark (OCS, Carcharhinus longimanus)"
   },
   {
     "objectID": "materials/global_presentation.html#what-are-we-focusing-on-3",
@@ -88,56 +74,56 @@
     "href": "materials/global_presentation.html#what-are-we-focusing-on-4",
     "title": "AERME training session 2023",
     "section": "What are we focusing on?",
-    "text": "What are we focusing on?\nFishing gear\n\nLonglines"
+    "text": "What are we focusing on?\nFishing gears\n\nLonglines"
   },
   {
     "objectID": "materials/global_presentation.html#what-are-we-focusing-on-5",
     "href": "materials/global_presentation.html#what-are-we-focusing-on-5",
     "title": "AERME training session 2023",
     "section": "What are we focusing on?",
-    "text": "What are we focusing on?\nFishing gear\n\nPurse seiners"
+    "text": "What are we focusing on?\nFishing gears\n\nPurse seiners"
   },
   {
     "objectID": "materials/global_presentation.html#what-are-we-focusing-on-6",
     "href": "materials/global_presentation.html#what-are-we-focusing-on-6",
     "title": "AERME training session 2023",
     "section": "What are we focusing on?",
-    "text": "What are we focusing on?\nPurse seine school type\n\n\n\nFree school"
+    "text": "What are we focusing on?\nPurse seiner school type\n\nFree school"
   },
   {
     "objectID": "materials/global_presentation.html#what-are-we-focusing-on-7",
     "href": "materials/global_presentation.html#what-are-we-focusing-on-7",
     "title": "AERME training session 2023",
     "section": "What are we focusing on?",
-    "text": "What are we focusing on?\nPurse seine school type\n\n\n\nFOBs: Floating OBjects  natural\n\n\n\n artificial"
+    "text": "What are we focusing on?\nPurse seiner school type\n\n\n\nFOBs: Floating OBjects natural\n\n\n\nartificial"
   },
   {
     "objectID": "materials/global_presentation.html#the-information-system-1",
     "href": "materials/global_presentation.html#the-information-system-1",
     "title": "AERME training session 2023",
     "section": "The information system",
-    "text": "The information system\n\n            Collection: recovery of declarative data (logbook for example), sampling, fleet characteristics, etc."
+    "text": "The information system\nCollection: recovery of declarative data (logbook for example), sampling, fleet characteristics, etc."
   },
   {
     "objectID": "materials/global_presentation.html#the-information-system-2",
     "href": "materials/global_presentation.html#the-information-system-2",
     "title": "AERME training session 2023",
     "section": "The information system",
-    "text": "The information system\n\n            Storage: management in databases and administration of these databases"
+    "text": "The information system\nStorage: management, administration of databases to store all these kinds of data and ensure long-term preservation."
   },
   {
     "objectID": "materials/global_presentation.html#the-information-system-3",
     "href": "materials/global_presentation.html#the-information-system-3",
     "title": "AERME training session 2023",
     "section": "The information system",
-    "text": "The information system\n\n            Treatment: processes of checking/correcting data to ensure quality data with the least possible bias or specific exploitation"
+    "text": "The information system\nTreatment: processes of checking/correcting data to ensure quality data with the least possible bias or specific exploitation."
   },
   {
     "objectID": "materials/global_presentation.html#the-information-system-4",
     "href": "materials/global_presentation.html#the-information-system-4",
     "title": "AERME training session 2023",
     "section": "The information system",
-    "text": "The information system\n\n            Sharing: expertise and coordination at several levels, for research projects, in support of stock assessments, data delivery, etc."
+    "text": "The information system\nSharing: expertise and coordination at several levels, for research projects, in support of stock assessments, data delivery, etc."
   },
   {
     "objectID": "materials/global_presentation.html#data-collection-1",
@@ -182,32 +168,18 @@
     "text": "Data collection - On board\nExample of bycatch"
   },
   {
-    "objectID": "materials/global_presentation.html#data-collection---on-board-2",
-    "href": "materials/global_presentation.html#data-collection---on-board-2",
-    "title": "AERME training session 2023",
-    "section": "Data collection - On board",
-    "text": "Data collection - On board\nSampling at sea\n\nOn board observers\nCorrect the logbook data"
-  },
-  {
     "objectID": "materials/global_presentation.html#data-storage-1",
     "href": "materials/global_presentation.html#data-storage-1",
     "title": "AERME training session 2023",
     "section": "Data storage",
-    "text": "Data storage\nAdministration\n\nAdministration of a database management system\n\nDesign and programming operations for the collection, storage, processing and restitution\n\nEnsure data quality, identify and correct errors\nEnsure data security and integrity\nEnsure that data confidentiality is respected"
-  },
-  {
-    "objectID": "materials/global_presentation.html#data-storage-2",
-    "href": "materials/global_presentation.html#data-storage-2",
-    "title": "AERME training session 2023",
-    "section": "Data storage",
-    "text": "Data storage\nQuality and security\n\nData quality : constraints like integrity, data type, and pre/post-integration check\n\nCheck the data before and after integration in the database\nLimit the length of the sample sizes to realistic values\nCheck the consistency of the fishing season\n\nData security : protecting against catastrophic failures and intentional wrongdoing\nSecurity measures : fault-tolerant disks, off-site backups, authentication, access rights, VPN, IP-based access control, and encryption of data exchanges."
+    "text": "Data storage\nTo do"
   },
   {
     "objectID": "materials/global_presentation.html#data-treatment-1",
     "href": "materials/global_presentation.html#data-treatment-1",
     "title": "AERME training session 2023",
     "section": "Data treatment",
-    "text": "Data treatment\nDatabases corrections\n\n\nErrors may occur, when:\n\nThe Excel logbook file is written by the partners\nCopying this file into the database"
+    "text": "Data treatment\nDatabases corrections\n\n\nErrors may occur, when:\n\nThe Excel logbook file is written by the partners, declarative issues\nCopying this file into the database, entry issues"
   },
   {
     "objectID": "materials/global_presentation.html#data-treatment-2",
@@ -235,77 +207,63 @@
     "href": "materials/global_presentation.html#data-treatment-5",
     "title": "AERME training session 2023",
     "section": "Data treatment",
-    "text": "Data treatment\nTropical Tuna Treament (T3)"
+    "text": "Data treatment\nTropical Tuna Treament (T3)\n\n\n\n\nWhy we need this kind of treatment?\n\nGlobally in the declarative data, global weight pretty well estimated but significant bias in species composition\nA lot of input data in different unites or scales"
   },
   {
     "objectID": "materials/global_presentation.html#data-treatment-6",
     "href": "materials/global_presentation.html#data-treatment-6",
     "title": "AERME training session 2023",
     "section": "Data treatment",
-    "text": "Data treatment\nTropical Tuna Treament (T3)\n      \n\nAjust catches to landing weight.\nDefine homogenous strata and standardize measurement.\nAssess the species composition and size distribution.\nAllocate the sample species composition to the set level."
+    "text": "Data treatment\nTropical Tuna Treament (T3)\n\n\n\n\nA succesion of processes for:\n\nstandardise logbook data\nstandardise sampling data\nre-assessment of catches (link to the landing data for example) and correction of the species composition\n\nTo go deeper: https://ob7-ird.github.io/t3/"
   },
   {
     "objectID": "materials/global_presentation.html#data-treatment-7",
     "href": "materials/global_presentation.html#data-treatment-7",
     "title": "AERME training session 2023",
     "section": "Data treatment",
-    "text": "Data treatment\nIndicators examples\n\n\nEstimated total catch   \n\nEstimated catch and effort \n\nFishing capacity"
+    "text": "Data treatment\nIndicators examples\n\n\nEstimated total catch \n\nEstimated catch and effort \n\nFishing capacity"
   },
   {
     "objectID": "materials/global_presentation.html#data-deliveries",
     "href": "materials/global_presentation.html#data-deliveries",
     "title": "AERME training session 2023",
     "section": "Data deliveries",
-    "text": "Data deliveries\nData calls\n\nFor diverse projects (research, internships …)\nFor the DGAMPA (Direction Générale des Affaires Maritimes, de la Pêche et de l’Aquaculture)\n\nFor France (National Work Plan …)\nFor the European Union (Fisheries Dependent Information, …)\n\nFor RFMOs\n\nDelivery of transversal variables\nSpecific formats"
+    "text": "Data deliveries\nData calls\n\nFor diverse purposes (research, internships, …)\nFor the DGAMPA (Direction Générale des Affaires Maritimes, de la Pêche et de l’Aquaculture)\n\nFor France (National Work Plan …)\nFor the European Union (Fisheries Dependent Information, …)\n\nFor RFMOs\n\nDelivery of transversal variables"
   },
   {
     "objectID": "materials/global_presentation.html#expertise",
     "href": "materials/global_presentation.html#expertise",
     "title": "AERME training session 2023",
     "section": "Expertise",
-    "text": "Expertise\nRFMO working groups\n\nThe International Commission for the Conservation of Atlantic Tunas   \nThe Indian Ocean Tuna Commission   \nTo simplify, 3 levels of actions:\n\nThe Working Groups\nThe Scientific Committee\nThe Commission"
+    "text": "Expertise\nRFMO working groups\n\n\nFor large pelagics, 4 RFMOs \n\nThe International Commission for the Conservation of Atlantic Tunas    The Indian Ocean Tuna Commission    Inter- American Tropical Tuna Commission    The Western and Central Pacific Fisheries Commission"
   },
   {
-    "objectID": "materials/global_presentation.html#rfmos-areas-of-interest",
-    "href": "materials/global_presentation.html#rfmos-areas-of-interest",
+    "objectID": "materials/global_presentation.html#expertise-1",
+    "href": "materials/global_presentation.html#expertise-1",
     "title": "AERME training session 2023",
-    "section": "RFMOs areas of interest?",
-    "text": "RFMOs areas of interest?\nFor large pelagics, 4 RFMOs\n\n\n\n\nThe International Commission for the Conservation of Atlantic Tunas    The Indian Ocean Tuna Commission    Inter- American Tropical Tuna Commission    The Western and Central Pacific Fisheries Commission"
+    "section": "Expertise",
+    "text": "Expertise\nRFMO working groups\n\n\nTo simplify, 3 levels of actions:\n\nThe Working Groups\nThe Scientific Committee\nThe Commission\n\nThey can produce recommendation or resolution"
   },
   {
     "objectID": "materials/global_presentation.html#coordination",
     "href": "materials/global_presentation.html#coordination",
     "title": "AERME training session 2023",
     "section": "Coordination",
-    "text": "Coordination\nAt European Union scale\n\nRegional Coordination Groups\n\nMain hub for regional coordination and cooperation\nComposed of experts appointed by Member States (e.g. MS’ national correspondents and EU Commission).\nContinuous process\nOb7 is involve in the RCG Large Pelagics (https://www.fisheries-rcg.eu/rcg-lp/)\n\nAim: to move from a “national” to a “regional” level."
+    "text": "Coordination\nAt European Union scale\n\nRegional Coordination Groups\n\nMain hub for regional coordination and cooperation\nComposed of experts appointed by Member States\nContinuous process\nOb7 is involve in the RCG Large Pelagics (https://www.fisheries-rcg.eu/rcg-lp/)\n\nAim: to move from a “national” to a “regional” level."
   },
   {
     "objectID": "materials/global_presentation.html#one-specific-characteristic",
     "href": "materials/global_presentation.html#one-specific-characteristic",
     "title": "AERME training session 2023",
     "section": "One specific characteristic",
-    "text": "One specific characteristic\nFocus on the EU\n\n\n\nEach entity negotiates on its side and is responsible for providing data\nThe EU :\n\ncoordinates all these tasks (for RFMOs)\nguarantees the monitoring of the fishing quota(s) by European fishermen\ngives more impact on the international scene"
+    "text": "One specific characteristic\nFocus on the EU\n\n\n\nNormally, each entity negotiates on its side and is responsible for providing data\nIn the case of the EU\n\ncoordination of all tasks (intermediary with RFMOs)\nguarantees the monitoring of the fishing quota(s) by European fishermen\ngives more impact on the international scene"
   },
   {
     "objectID": "materials/global_presentation.html#research-support",
     "href": "materials/global_presentation.html#research-support",
     "title": "AERME training session 2023",
     "section": "Research support",
-    "text": "Research support\nProjects\n\n\n\nProject FISHN’CO: Strengthening EU-MAP data collection by developing Regional Work Plans for the Regional Coordination Groups (RCG) NA NS & EA, Baltic and Large Pelagics and Economics Issues. https://www.fisheries-rcg.eu/fishnco/\nProject SECWEB: Developing mechanisms to support the planning and execution of administrative tasks and the branding and online visibility of the Regional Coordination Groups (RCGs), with the aim to establish a long-term supportive structure (SECWEB). https://www.fisheries-rcg.eu/secweb/"
-  },
-  {
-    "objectID": "materials/global_presentation.html#other-topics",
-    "href": "materials/global_presentation.html#other-topics",
-    "title": "AERME training session 2023",
-    "section": "Other topics",
-    "text": "Other topics\nDevelopment of a regional database for large pelagics\n\nRegional Database & Estimation System (RDBES, https://sboxrdbes.ices.dk/)\nRegional database for the Mediterranean and Black Seas (Med&BS RDBFIS, https://medbsrdb.eu/)"
-  },
-  {
-    "objectID": "materials/global_presentation.html#to-summarise",
-    "href": "materials/global_presentation.html#to-summarise",
-    "title": "AERME training session 2023",
-    "section": "To summarise",
-    "text": "To summarise\n\nThe Exploited Tropical Pelagic Ecosystems Observatory is a set of resources, humans and materials, under the umbrella of the French IRD\nIts aims are to collecting, storing, processing and sharing data focusing on the French tuna fisheries in the Atlantic and Indian Oceans\nFurthermore, he provides support and expertise among the RFMOs (Regional Fisheries Management Organisations) and partners (Spanish Institute of Oceanography, Seychelles Fishing Authority, …)"
+    "text": "Research support\nInvolving in projects\n\n\nProject FISHN’CO, https://www.fisheries-rcg.eu/fishnco/    Project SECWEB, https://www.fisheries-rcg.eu/secweb/    Project CECOFAD et CECOFAD2    …"
   },
   {
     "objectID": "materials/global_presentation.html#section-1",
@@ -313,6 +271,13 @@
     "title": "AERME training session 2023",
     "section": "",
     "text": "Thank you for your attention,  do you have any questions?\n           © FADIO / IRD - Ifremer\n\n\n\nhttps://ob7-ird.github.io/training_aerme_new"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "“Approche Écosystémique des Ressources Marines Exploitées” (AERME)",
+    "section": "",
+    "text": "This website gather all materials related to the 2023 module AERME for the topic session “Les pêcheries thonières tropicales : des données aux mesures de gestion, un défi pour l’exploitation durable”.\nContributors contacts:\n\nOcéane Bouhineau (oceane.bouhineau@ird.fr)\nMathieu Depetris (mathieu.depetris@ird.fr)\nAntoine Duparc (antoine.duparc@ird.fr)\nThéotime Fily (theotime.fily@ird.fr)\nClara Lerebourg (clara.lerebourg@ird.fr)\nEsther Mollier (esther.mollier@ird.fr)"
   },
   {
     "objectID": "materials/role_play_presentation.html#simulation-dune-réunion-du-rcg-lp",
