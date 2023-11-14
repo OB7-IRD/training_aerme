@@ -1,6 +1,7 @@
 # Training module "Approche Écosystémique des Ressources Marines Exploitées" (AERME)
 
-This website gather all materials related to the 2023 module AERME for the topic session "Les pêcheries thonières tropicales : des données aux mesures de gestion, un défi pour l'exploitation durable".
+Source repository for the 2023 module AERME topic session "Les pêcheries thonières tropicales : des données aux mesures de gestion, un défi pour l'exploitation durable". Visit the website associate https://ob7-ird.github.io/training_aerme/ to display presentations.
+
 
 Contributors contacts:
 
