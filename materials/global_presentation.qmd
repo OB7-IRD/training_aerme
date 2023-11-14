@@ -5,8 +5,8 @@ format:
     scrollable: true
     slide-number: c/t
     chalkboard: true 
-    theme: template/theme_perso.scss
-    logo: template/logo_ob7.png
+    theme: ../template/theme_perso.scss
+    logo: ../template/logo_ob7.png
     footer: "[https://ob7-ird.github.io/training_aerme_new](https://ob7-ird.github.io/training_aerme_new)"
 editor: visual
 ---
@@ -37,9 +37,9 @@ editor: visual
 ::: {.column width="50%"}
 The Observatory:
 
-- is a [**set of resources**]{style="color:#9a1c1f"} (human and material) under the umbrella of the [**French National Research Institute for Sustainable Development**]{style="color:#9a1c1f"} (IRD),
+-   is a [**set of resources**]{style="color:#9a1c1f"} (human and material) under the umbrella of the [**French National Research Institute for Sustainable Development**]{style="color:#9a1c1f"} (IRD),
 
-- under the responsability of [**Julien Lebranchu**]{style="color:#9a1c1f"} (julien.lebranchu\@ird.fr).
+-   under the responsability of [**Julien Lebranchu**]{style="color:#9a1c1f"} (julien.lebranchu\@ird.fr).
 :::
 :::
 
@@ -142,7 +142,7 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 -   Bait boats
 
 ![](images/canneur.jpg){.absolute top="100" left="345" width="65%"}
- 
+
 ## What are we focusing on? {auto-animate="true"}
 
 ### Fishing gears {style="color:#00a9d6; font-size: 1.5em"}
@@ -163,7 +163,7 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ### Purse seiner school type {style="color:#00a9d6; font-size: 1.5em"}
 
-- Free school 
+-   Free school
 
 ![](images/free_school.jpg){.absolute top="220" left="200" width="60%"}
 
@@ -173,8 +173,7 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ::: columns
 ::: {.column width="50%"}
--   FOBs: [**F**]{style="color:#9a1c1f"}loating [**OB**]{style="color:#9a1c1f"}jects<br/>
-[**natural**]{style="color:#9a1c1f"}
+-   FOBs: [**F**]{style="color:#9a1c1f"}loating [**OB**]{style="color:#9a1c1f"}jects<br/> [**natural**]{style="color:#9a1c1f"}
 
 ![](images/dcp_natural.jpg){.absolute top="280" left="10" width="40%"}
 :::
@@ -198,7 +197,7 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ## The information system
 
-[**Storage**]{style="color:#9a1c1f"}: management, administration of databases to store all these kinds of data and ensure long-term preservation. 
+[**Storage**]{style="color:#9a1c1f"}: management, administration of databases to store all these kinds of data and ensure long-term preservation.
 
 ![](images/si_ob7_en_2.png){.absolute left="150" width="65%"}
 
@@ -401,9 +400,9 @@ Tools then [**performs checks to highlight errors**]{style="color:#9a1c1f"} so t
 ::: {.column width="50%"}
 Why we need this kind of treatment?
 
-- Globally in the declarative data, [global weight]{style="color:#9a1c1f"} pretty well estimated but significant bias in [species composition]{style="color:#9a1c1f"}
+-   Globally in the declarative data, [global weight]{style="color:#9a1c1f"} pretty well estimated but significant bias in [species composition]{style="color:#9a1c1f"}
 
-- A lot of input data in [different]{style="color:#9a1c1f"} unites or scales
+-   A lot of input data in [different]{style="color:#9a1c1f"} unites or scales
 :::
 :::
 
@@ -419,11 +418,11 @@ Why we need this kind of treatment?
 ::: {.column width="50%"}
 A succesion of processes for:
 
-- standardise logbook data
-- standardise sampling data
-- re-assessment of catches (link to the landing data for example) and correction of the species composition
+-   standardise logbook data
+-   standardise sampling data
+-   re-assessment of catches (link to the landing data for example) and correction of the species composition
 
-To go deeper: [https://ob7-ird.github.io/t3/](https://ob7-ird.github.io/t3/)
+To go deeper: <https://ob7-ird.github.io/t3/>
 :::
 :::
 
@@ -433,18 +432,15 @@ To go deeper: [https://ob7-ird.github.io/t3/](https://ob7-ird.github.io/t3/)
 
 ::: columns
 ::: {.column width="33.3%"}
-Estimated total catch
-![](images/estimated_total_catch.png){.absolute top="250" left="0" width="28%"}
+Estimated total catch ![](images/estimated_total_catch.png){.absolute top="250" left="0" width="28%"}
 :::
 
 ::: {.column width="37.3%"}
-Estimated catch and effort
-![](images/estimated_catch_effort.png){.absolute top="250" left="370" width="28%"}
+Estimated catch and effort ![](images/estimated_catch_effort.png){.absolute top="250" left="370" width="28%"}
 :::
 
 ::: {.column width="29.3%"}
-Fishing capacity
-![](images/fishing_capacity_ind_80.png){.absolute top="265" left="730" width="28%"}
+Fishing capacity ![](images/fishing_capacity_ind_80.png){.absolute top="265" left="730" width="28%"}
 :::
 :::
 
@@ -456,21 +452,20 @@ Fishing capacity
 
 ### [Data calls]{style="color:#00a9d6"}
 
-- For diverse purposes (research, internships, ...)
-- For the [**DGAMPA**]{style="color:#9a1c1f"} (Direction Générale des Affaires Maritimes, de la Pêche et de l'Aquaculture)
-    - For [**France**]{style="color:#9a1c1f"} (National Work Plan ...)
-    - For the [**European Union**]{style="color:#9a1c1f"} (Fisheries Dependent Information, ...)
-- For [**RFMOs**]{style="color:#9a1c1f"}
-    - Delivery of [**transversal variables**]{style="color:#9a1c1f"}
-    
+-   For diverse purposes (research, internships, ...)
+-   For the [**DGAMPA**]{style="color:#9a1c1f"} (Direction Générale des Affaires Maritimes, de la Pêche et de l'Aquaculture)
+    -   For [**France**]{style="color:#9a1c1f"} (National Work Plan ...)
+    -   For the [**European Union**]{style="color:#9a1c1f"} (Fisheries Dependent Information, ...)
+-   For [**RFMOs**]{style="color:#9a1c1f"}
+    -   Delivery of [**transversal variables**]{style="color:#9a1c1f"}
+
 ## Expertise {.smaller}
 
-### RFMO working groups{style="color:#00a9d6"}
+### RFMO working groups {style="color:#00a9d6"}
 
 ::: columns
 ::: {.column width="80%"}
-For large pelagics, 4 RFMOs
-![](images/rfmo_area.png){width="80%"}
+For large pelagics, 4 RFMOs ![](images/rfmo_area.png){width="80%"}
 :::
 
 ::: {.column width="20%"}
@@ -486,10 +481,10 @@ The [**I**]{style="color:#9a1c1f"}nternational [**C**]{style="color:#9a1c1f"}omm
 ::: {.column width="50%"}
 To simplify, [**3 levels of actions**]{style="color:#9a1c1f"}:
 
-  - The Working Groups
-  - The Scientific Committee
-  - The Commission
-  
+-   The Working Groups
+-   The Scientific Committee
+-   The Commission
+
 They can produce [**recommendation**]{style="color:#9a1c1f"} or [**resolution**]{style="color:#9a1c1f"}
 :::
 
@@ -502,12 +497,12 @@ They can produce [**recommendation**]{style="color:#9a1c1f"} or [**resolution**]
 
 ### [At European Union scale]{style="color:#00a9d6"}
 
-- [**R**]{style="color:#9a1c1f"}egional [**C**]{style="color:#9a1c1f"}oordination [**G**]{style="color:#9a1c1f"}roups
-    - [**Main hub**]{style="color:#9a1c1f"} for regional coordination and cooperation
-    - Composed of experts appointed by Member States
-    - [**Continuous**]{style="color:#9a1c1f"} process
-    - Ob7 is involve in the RCG Large Pelagics [(https://www.fisheries-rcg.eu/rcg-lp/)](https://www.fisheries-rcg.eu/rcg-lp/){target="_blank"}
-- Aim: to move from a [**"national"**]{style="color:#9a1c1f"} to a [**"regional"**]{style="color:#9a1c1f"} level.
+-   [**R**]{style="color:#9a1c1f"}egional [**C**]{style="color:#9a1c1f"}oordination [**G**]{style="color:#9a1c1f"}roups
+    -   [**Main hub**]{style="color:#9a1c1f"} for regional coordination and cooperation
+    -   Composed of experts appointed by Member States
+    -   [**Continuous**]{style="color:#9a1c1f"} process
+    -   Ob7 is involve in the RCG Large Pelagics [(https://www.fisheries-rcg.eu/rcg-lp/)](https://www.fisheries-rcg.eu/rcg-lp/){target="_blank"}
+-   Aim: to move from a [**"national"**]{style="color:#9a1c1f"} to a [**"regional"**]{style="color:#9a1c1f"} level.
 
 ![](images/rcg_lp.png){.absolute top="70" left="650" width="35%"}
 
@@ -517,17 +512,15 @@ They can produce [**recommendation**]{style="color:#9a1c1f"} or [**resolution**]
 
 ::: columns
 ::: {.column width="70%"}
-- Normally, each entity negotiates [**on its side**]{style="color:#9a1c1f"} and is responsible for providing data
-- In the case of the EU 
-    - [**coordination**]{style="color:#9a1c1f"} of all tasks (intermediary with RFMOs)
-    - [**guarantees**]{style="color:#9a1c1f"} the monitoring of the fishing quota(s) by European fishermen
-    - gives more [**impact**]{style="color:#9a1c1f"} on the international scene
+-   Normally, each entity negotiates [**on its side**]{style="color:#9a1c1f"} and is responsible for providing data
+-   In the case of the EU
+    -   [**coordination**]{style="color:#9a1c1f"} of all tasks (intermediary with RFMOs)
+    -   [**guarantees**]{style="color:#9a1c1f"} the monitoring of the fishing quota(s) by European fishermen
+    -   gives more [**impact**]{style="color:#9a1c1f"} on the international scene
 :::
 
 ::: {.column width="30%"}
-![](images/dcf.png){.absolute top="200" left="850" width="10%"}
-![](images/dgmare.png){.absolute top="380" left="850" width="10%"}
-
+![](images/dcf.png){.absolute top="200" left="850" width="10%"} ![](images/dgmare.png){.absolute top="380" left="850" width="10%"}
 :::
 :::
 
@@ -537,26 +530,11 @@ They can produce [**recommendation**]{style="color:#9a1c1f"} or [**resolution**]
 
 ::: columns
 ::: {.column width="70%"}
-Project FISHN'CO, [https://www.fisheries-rcg.eu/fishnco/](https://www.fisheries-rcg.eu/fishnco/)
-<br/>
-<br/>
-<br/>
-Project SECWEB, [https://www.fisheries-rcg.eu/secweb/](https://www.fisheries-rcg.eu/secweb/)
-<br/>
-<br/>
-<br/>
-Project CECOFAD et CECOFAD2 
-<br/>
-<br/>
-<br/>
-... 
+Project FISHN'CO, <https://www.fisheries-rcg.eu/fishnco/> <br/> <br/> <br/> Project SECWEB, <https://www.fisheries-rcg.eu/secweb/> <br/> <br/> <br/> Project CECOFAD et CECOFAD2 <br/> <br/> <br/> ...
 :::
 
 ::: {.column width="30%"}
-![](images/fishnco.png){.absolute top="170" left="800" width="18%"}
-![](images/secweb.png){.absolute top="270" left="800" width="18%"}
-![](images/logo_cecofad.png){.absolute top="380" left="500" width="12%"}
-![](images/logo_cecofad2.png){.absolute top="380" left="750" width="12%"}
+![](images/fishnco.png){.absolute top="170" left="800" width="18%"} ![](images/secweb.png){.absolute top="270" left="800" width="18%"} ![](images/logo_cecofad.png){.absolute top="380" left="500" width="12%"} ![](images/logo_cecofad2.png){.absolute top="380" left="750" width="12%"}
 :::
 :::
 
