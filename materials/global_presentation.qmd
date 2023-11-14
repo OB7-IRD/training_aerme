@@ -23,52 +23,45 @@ editor: visual
 
 [What is the Exploited Tropical Pelagic Ecosystems Observatory? (Ob7)]{style="color:#00a9d6; font-size: 1.5em"}
 
-## What is it ? {auto-animate="true"}
+## What is it?
 
 ![](images/logo_ob7.png){width="70%"}
 
-## What is it ? {auto-animate="true"}
+## What is it?
 
 ::: columns
 ::: {.column width="50%"}
-<br/> <br/> ![](images/logo_ob7.png){width="90%"}
+![](images/logo_ob7_2.png){width="90%"}
 :::
 
 ::: {.column width="50%"}
+The Observatory:
+
+- is a [**set of resources**]{style="color:#9a1c1f"} (human and material) under the umbrella of the [**French National Research Institute for Sustainable Development**]{style="color:#9a1c1f"} (IRD),
+
+- under the responsability of [**Julien Lebranchu**]{style="color:#9a1c1f"} (julien.lebranchu\@ird.fr).
 :::
 :::
 
-## What is it ?
+## What is it?
 
 ::: columns
 ::: {.column width="50%"}
-<br/> <br/> ![](images/logo_ob7_2.png){width="90%"}
-:::
-
-::: {.column width="50%"}
-<br/> The Observatory: <br/> <br/> - is a [**set of resources**]{style="color:#9a1c1f"} (human and material) under the umbrella of the [**French National Research Institute for Sustainable Development**]{style="color:#9a1c1f"} (IRD). <br/> <br/> - under the responsability of [**Julien Lebranchu**]{style="color:#9a1c1f"} (julien.lebranchu\@ird.fr).
-:::
-:::
-
-## What is it ?
-
-::: columns
-::: {.column width="50%"}
-<br/> <br/> ![](images/logo_ob7_3.png){width="90%"}
+![](images/logo_ob7_3.png){width="90%"}
 :::
 
 ::: {.column width="50%"}
 of [**exploited ressources**]{style="color:#9a1c1f"}
 
-![](images/exploited_species.jpg)
+![](images/exploited_species.png)
 :::
 :::
 
-## What is it ?
+## What is it?
 
 ::: columns
 ::: {.column width="50%"}
-<br/> <br/> ![](images/logo_ob7_4.png){width="90%"}
+![](images/logo_ob7_4.png){width="90%"}
 :::
 
 ::: {.column width="50%"}
@@ -78,11 +71,11 @@ focused on a [**tropical**]{style="color:#9a1c1f"}
 :::
 :::
 
-## What is it ?
+## What is it?
 
 ::: columns
 ::: {.column width="50%"}
-<br/> <br/> ![](images/logo_ob7_5.png){width="90%"}
+![](images/logo_ob7_5.png){width="90%"}
 :::
 
 ::: {.column width="50%"}
@@ -111,35 +104,35 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 :::
 :::
 
-## What are we focusing on? {auto-animate="true"}
+## What are we focusing on?
 
 ### Target species and bycatch {style="color:#00a9d6; font-size: 1.5em"}
 
 -   Major tunas
-    -   Yellowfin tuna (YFT, *Thunnus albacares*) ![](images/YFT.jpg){.absolute top="170" left="745" width="25%"} <br/> <br/>
-    -   Bigeye tuna (BET, *Thunnus obesus*) ![](images/BET.jpg){.absolute top="260" left="530" width="24%"} <br/> <br/>
-    -   Skipjack tuna (SKJ, *Katsuwonus pelamis*) ![](images/SKJ.jpg){.absolute top="350" left="780" width="25%"} <br/> <br/>
+    -   Yellowfin tuna (YFT, *Thunnus albacares*) ![](images/YFT.jpg){.absolute top="170" left="745" width="25%"}<br/><br/>
+    -   Bigeye tuna (BET, *Thunnus obesus*) ![](images/BET.jpg){.absolute top="260" left="530" width="24%"}<br/><br/>
+    -   Skipjack tuna (SKJ, *Katsuwonus pelamis*) ![](images/SKJ.jpg){.absolute top="350" left="780" width="25%"}<br/><br/>
     -   Albacore tuna (ALB, *Thunnus alalunga*) ![](images/ALB.jpg){.absolute top="450" left="575" width="25%"}
 
-## What are we focusing on? {auto-animate="true"}
+## What are we focusing on?
 
 ### Target species and bycatch {style="color:#00a9d6; font-size: 1.5em"}
 
--   Neritic tunas <br/>
-    -   Bullet tuna (BLT, *Auxis rochei*) ![](images/BLT.jpg){.absolute top="180" left="480" width="25%"} <br/> <br/>
-    -   Frigate tuna (FRI, *Auxis thazard*) ![](images/FRI.jpg){.absolute top="260" left="680" width="25%"} <br/> <br/>
-    -   Kawakawa (KAW, *Euthynnus affinis*) ![](images/KAW.jpg){.absolute top="350" left="550" width="25%"} <br/> <br/>
+-   Neritic tunas
+    -   Bullet tuna (BLT, *Auxis rochei*) ![](images/BLT.jpg){.absolute top="180" left="480" width="25%"} <br/><br/>
+    -   Frigate tuna (FRI, *Auxis thazard*) ![](images/FRI.jpg){.absolute top="260" left="680" width="25%"}<br/><br/>
+    -   Kawakawa (KAW, *Euthynnus affinis*) ![](images/KAW.jpg){.absolute top="350" left="550" width="25%"}<br/><br/>
     -   Atlantic bonito (BON, *Sarda sarda*) ![](images/BON.jpg){.absolute top="465" left="650" width="25%"}
 
-## What are we focusing on? {auto-animate="true"}
+## What are we focusing on?
 
 ### Target species and bycatch {style="color:#00a9d6; font-size: 1.5em"}
 
--   Billfish and pelagic sharks species <br/>
-    -   Swordfish (SWO, *Xiphias gladius*) ![](images/SWO.jpg){.absolute top="170" left="550" width="25%"} <br/> <br/>
-    -   Sailfish (SAI, *Istiophorus albicans*) ![](images/SAI.jpg){.absolute top="265" left="620" width="25%"} <br/> <br/>
-    -   Blue marlin (BUM, *Makaira nigricans*) ![](images/BUM.jpg){.absolute top="360" left="600" width="25%"} <br/> <br/>
-    -   Blue shark (BSH, *Prionace glauca*) ![](images/BSH.jpg){.absolute top="465" left="550" width="25%"} <br/> <br/>
+-   Billfish and pelagic sharks species
+    -   Swordfish (SWO, *Xiphias gladius*) ![](images/SWO.jpg){.absolute top="170" left="550" width="25%"}<br/><br/>
+    -   Sailfish (SAI, *Istiophorus albicans*) ![](images/SAI.jpg){.absolute top="265" left="620" width="25%"}<br/><br/>
+    -   Blue marlin (BUM, *Makaira nigricans*) ![](images/BUM.jpg){.absolute top="360" left="600" width="25%"}<br/><br/>
+    -   Blue shark (BSH, *Prionace glauca*) ![](images/BSH.jpg){.absolute top="465" left="550" width="25%"}<br/><br/>
     -   Oceanic whitetip shark (OCS, *Carcharhinus longimanus*) ![](images/OCS.jpg){.absolute top="535" left="785" width="25%"}
 
 ## What are we focusing on?
@@ -149,52 +142,45 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 -   Bait boats
 
 ![](images/canneur.jpg){.absolute top="100" left="345" width="65%"}
+ 
+## What are we focusing on? {auto-animate="true"}
 
-## What are we focusing on?
-
-### Fishing gear {style="color:#00a9d6; font-size: 1.5em"}
+### Fishing gears {style="color:#00a9d6; font-size: 1.5em"}
 
 -   Longlines
 
-![](images/palangre.jpg){.absolute top="135" left="315" width="70%"}
+![](images/palangre.png){.absolute top="135" left="315" width="70%"}
 
-## What are we focusing on?
+## What are we focusing on? {auto-animate="true"}
 
-### Fishing gear {style="color:#00a9d6; font-size: 1.5em"}
+### Fishing gears {style="color:#00a9d6; font-size: 1.5em"}
 
 -   Purse seiners
 
 ![](images/seiners.jpg){.absolute top="120" left="290" width="70%"}
 
-## What are we focusing on? {auto-animate="true"}
+## What are we focusing on?
 
-### Purse seine school type {style="color:#00a9d6; font-size: 1.5em"}
+### Purse seiner school type {style="color:#00a9d6; font-size: 1.5em"}
 
-::: columns
-::: {.column width="50%"}
--   Free school
-:::
+- Free school 
 
-::: {.column width="50%"}
 ![](images/free_school.jpg){.absolute top="220" left="200" width="60%"}
-:::
-:::
 
-## What are we focusing on? {auto-animate="true"}
+## What are we focusing on?
 
-### Purse seine school type {style="color:#00a9d6; font-size: 1.5em"}
+### Purse seiner school type {style="color:#00a9d6; font-size: 1.5em"}
 
 ::: columns
 ::: {.column width="50%"}
--   FOBs: [**F**]{style="color:#9a1c1f"}loating [**OB**]{style="color:#9a1c1f"}jects
-<br/> [**natural**]{style="color:#9a1c1f"}
+-   FOBs: [**F**]{style="color:#9a1c1f"}loating [**OB**]{style="color:#9a1c1f"}jects<br/>
+[**natural**]{style="color:#9a1c1f"}
 
 ![](images/dcp_natural.jpg){.absolute top="280" left="10" width="40%"}
 :::
 
 ::: {.column width="50%"}
-<br/>
-      [**artificial**]{style="color:#9a1c1f"}
+<br/>[**artificial**]{style="color:#9a1c1f"}
 
 ![](images/dcp_artificial.jpg){.absolute top="280" left="520" width="42%"}
 :::
@@ -206,27 +192,27 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ## The information system
 
-![](images/si_ob7_en_1.png){.absolute left="175" top="55" width="75%"}
+[**Collection**]{style="color:#9a1c1f"}: recovery of declarative data (logbook for example), sampling, fleet characteristics, etc.
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> [**Collection**]{style="color:#9a1c1f"}: recovery of declarative data (logbook for example), sampling, fleet characteristics, etc.
-
-## The information system
-
-![](images/si_ob7_en_2.png){.absolute left="175" top="55" width="75%"}
-
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> [**Storage**]{style="color:#9a1c1f"}: management in databases and administration of these databases
+![](images/si_ob7_en_1.png){.absolute left="150" width="65%"}
 
 ## The information system
 
-![](images/si_ob7_en_3.png){.absolute left="175" top="55" width="75%"}
+[**Storage**]{style="color:#9a1c1f"}: management, administration of databases to store all these kinds of data and ensure long-term preservation. 
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> [**Treatment**]{style="color:#9a1c1f"}: processes of checking/correcting data to ensure quality data with the least possible bias or specific exploitation
+![](images/si_ob7_en_2.png){.absolute left="150" width="65%"}
 
 ## The information system
 
-![](images/si_ob7_en.png){.absolute left="175" top="55" width="75%"}
+[**Treatment**]{style="color:#9a1c1f"}: processes of checking/correcting data to ensure quality data with the least possible bias or specific exploitation.
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> [**Sharing**]{style="color:#9a1c1f"}: expertise and coordination at several levels, for research projects, in support of stock assessments, data delivery, etc.
+![](images/si_ob7_en_3.png){.absolute left="150" width="65%"}
+
+## The information system
+
+[**Sharing**]{style="color:#9a1c1f"}: expertise and coordination at several levels, for research projects, in support of stock assessments, data delivery, etc.
+
+![](images/si_ob7_en.png){.absolute left="150" width="65%"}
 
 # Data collection
 
@@ -246,7 +232,7 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 :::
 
 ::: {.column width="25%"}
-![](images/offshore_picture.png){.absolute top="200" left="700" width="30%"}
+![](images/offshore_picture.jpg){.absolute top="200" left="700" width="30%"}
 :::
 :::
 
@@ -264,7 +250,7 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 :::
 
 ::: {.column width="30%"}
-![](images/offshore_picture.png){.absolute top="200" left="700" width="30%"}
+![](images/offshore_picture.jpg){.absolute top="200" left="700" width="30%"}
 :::
 :::
 
@@ -313,39 +299,13 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ![](images/shark_bycatch.jpg){.absolute top="150" left="150" width="33%"} ![](images/bycatch_coryphene.jpg){.absolute top="400" left="150" width="33%"} ![](images/whale_shark_bycatch.jpg){.absolute top="150" left="550" width="36%"}
 
-## Data collection - On board
-
-### Sampling at sea {style="color:#00a9d6"}
-
--   [**On board observers**]{style="color:#9a1c1f"}
--   Correct the logbook data
-
-![](images/control_trip_map.png){.absolute top="130" left="570" width="45%"}
-
 # Data storage
 
 [Information System]{style="color:#00a9d6; font-size: 1.5em"}
 
 ## Data storage
 
-### Administration {style="color:#00a9d6"}
-
--   Administration of a [**database management system**]{style="color:#9a1c1f"}
-    -   Design and programming operations for the collection, storage, processing and restitution
--   Ensure data quality, [**identify**]{style="color:#9a1c1f"} and [**correct**]{style="color:#9a1c1f"} errors
--   Ensure data [**security**]{style="color:#9a1c1f"} and [**integrity**]{style="color:#9a1c1f"}
--   Ensure that data confidentiality is [**respected**]{style="color:#9a1c1f"}
-
-## Data storage
-
-### Quality and security {style="color:#00a9d6"}
-
--   [**Data quality**]{style="color:#9a1c1f"} : constraints like integrity, data type, and pre/post-integration check
-    -   Check the data before and after integration in the database
-    -   Limit the length of the sample sizes to realistic values
-    -   Check the consistency of the fishing season
--   [**Data security**]{style="color:#9a1c1f"} : protecting against catastrophic failures and intentional wrongdoing
--   [**Security measures**]{style="color:#9a1c1f"} : fault-tolerant disks, off-site backups, authentication, access rights, VPN, IP-based access control, and encryption of data exchanges.
+### To do {style="color:#00a9d6"}
 
 # Data treatment
 
@@ -359,9 +319,9 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 ::: {.column width="50%"}
 [**Errors**]{style="color:#9a1c1f"} may occur, when:
 
--   The Excel logbook file is written by the partners
+-   The Excel logbook file is written by the partners, [**declarative issues**]{style="color:#9a1c1f"}
 
--   Copying this file into the database
+-   Copying this file into the database, [**entry issues**]{style="color:#9a1c1f"}
 :::
 
 ::: {.column width="50%"}
@@ -433,18 +393,39 @@ Tools then [**performs checks to highlight errors**]{style="color:#9a1c1f"} so t
 
 ### [Tropical Tuna Treament (T3)]{style="color:#00a9d6"}
 
-![](images/t3_treatment.png){.absolute top="150" left="100"}
+::: columns
+::: {.column width="50%"}
+![](images/salabardage.png)
+:::
+
+::: {.column width="50%"}
+Why we need this kind of treatment?
+
+- Globally in the declarative data, [global weight]{style="color:#9a1c1f"} pretty well estimated but significant bias in [species composition]{style="color:#9a1c1f"}
+
+- A lot of input data in [different]{style="color:#9a1c1f"} unites or scales
+:::
+:::
 
 ## Data treatment
 
 ### [Tropical Tuna Treament (T3)]{style="color:#00a9d6"}
 
-![](images/t3_treatment.png){.absolute top="150" left="100"} <br> <br> <br> <br> <br> <br><br>
+::: columns
+::: {.column width="50%"}
+![](images/logo_t3.png){width="75%"}
+:::
 
--   [**Ajust**]{style="color:#9a1c1f"} catches to landing weight.
--   Define [**homogenous strata**]{style="color:#9a1c1f"} and [**standardize**]{style="color:#9a1c1f"} measurement.
--   [**Assess the species composition**]{style="color:#9a1c1f"} and size distribution.
--   [**Allocate**]{style="color:#9a1c1f"} the sample species composition to the set level.
+::: {.column width="50%"}
+A succesion of processes for:
+
+- standardise logbook data
+- standardise sampling data
+- re-assessment of catches (link to the landing data for example) and correction of the species composition
+
+To go deeper: [https://ob7-ird.github.io/t3/](https://ob7-ird.github.io/t3/)
+:::
+:::
 
 ## Data treatment
 
@@ -452,15 +433,18 @@ Tools then [**performs checks to highlight errors**]{style="color:#9a1c1f"} so t
 
 ::: columns
 ::: {.column width="33.3%"}
-Estimated total catch <br/> <br/> ![](images/estimated_total_catch.png){.absolute top="250" left="0" width="28%"}
+Estimated total catch
+![](images/estimated_total_catch.png){.absolute top="250" left="0" width="28%"}
 :::
 
 ::: {.column width="37.3%"}
-Estimated catch and effort ![](images/estimated_catch_effort.png){.absolute top="250" left="355" width="30%"}
+Estimated catch and effort
+![](images/estimated_catch_effort.png){.absolute top="250" left="370" width="28%"}
 :::
 
 ::: {.column width="29.3%"}
-Fishing capacity ![](images/fishing_capacity_ind_80.png){.absolute top="240" left="730" width="30%"}
+Fishing capacity
+![](images/fishing_capacity_ind_80.png){.absolute top="265" left="730" width="28%"}
 :::
 :::
 
@@ -472,31 +456,20 @@ Fishing capacity ![](images/fishing_capacity_ind_80.png){.absolute top="240" lef
 
 ### [Data calls]{style="color:#00a9d6"}
 
--   For diverse projects (research, internships ...)
--   For the [**DGAMPA**]{style="color:#9a1c1f"} (Direction Générale des Affaires Maritimes, de la Pêche et de l'Aquaculture)
-    -   For [**France**]{style="color:#9a1c1f"} (National Work Plan ...)
-    -   For the European Union (Fisheries Dependent Information, ...)
--   For [**RFMOs**]{style="color:#9a1c1f"}
-    -   Delivery of [**transversal variables**]{style="color:#9a1c1f"}
-    -   Specific formats
+- For diverse purposes (research, internships, ...)
+- For the [**DGAMPA**]{style="color:#9a1c1f"} (Direction Générale des Affaires Maritimes, de la Pêche et de l'Aquaculture)
+    - For [**France**]{style="color:#9a1c1f"} (National Work Plan ...)
+    - For the [**European Union**]{style="color:#9a1c1f"} (Fisheries Dependent Information, ...)
+- For [**RFMOs**]{style="color:#9a1c1f"}
+    - Delivery of [**transversal variables**]{style="color:#9a1c1f"}
+    
+## Expertise {.smaller}
 
-## Expertise
-
-### [RFMO working groups]{style="color:#00a9d6"}
-
--   The [**I**]{style="color:#9a1c1f"}nternational [**C**]{style="color:#9a1c1f"}ommission for the [**C**]{style="color:#9a1c1f"}onservation of [**A**]{style="color:#9a1c1f"}tlantic [**T**]{style="color:#9a1c1f"}unas ![](images/iccat_logo.jpg){.absolute top="150" left="915" width="8%"} <br/> <br/>
--   The [**I**]{style="color:#9a1c1f"}ndian [**O**]{style="color:#9a1c1f"}cean [**T**]{style="color:#9a1c1f"}una [**C**]{style="color:#9a1c1f"}ommission ![](images/iotc_logo.png){.absolute top="230" left="500" width="8%"} <br/> <br/>
--   To simplify, [**3 levels of actions**]{style="color:#9a1c1f"}:
-    -   The Working Groups
-    -   The Scientific Committee
-    -   The Commission ![](images/commission_iccat.jpg){.absolute top="375" left="500" width="45%"}
-
-## RFMOs areas of interest? {.smaller}
-
-### [For large pelagics, 4 RFMOs]{style="color:#00a9d6"}
+### RFMO working groups{style="color:#00a9d6"}
 
 ::: columns
 ::: {.column width="80%"}
+For large pelagics, 4 RFMOs
 ![](images/rfmo_area.png){width="80%"}
 :::
 
@@ -505,18 +478,38 @@ The [**I**]{style="color:#9a1c1f"}nternational [**C**]{style="color:#9a1c1f"}omm
 :::
 :::
 
+## Expertise
+
+### [RFMO working groups]{style="color:#00a9d6"}
+
+::: columns
+::: {.column width="50%"}
+To simplify, [**3 levels of actions**]{style="color:#9a1c1f"}:
+
+  - The Working Groups
+  - The Scientific Committee
+  - The Commission
+  
+They can produce [**recommendation**]{style="color:#9a1c1f"} or [**resolution**]{style="color:#9a1c1f"}
+:::
+
+::: {.column width="50%"}
+![](images/commission_iccat.jpg){width="90%"}
+:::
+:::
+
 ## Coordination
 
 ### [At European Union scale]{style="color:#00a9d6"}
 
--   [**R**]{style="color:#9a1c1f"}egional [**C**]{style="color:#9a1c1f"}oordination [**G**]{style="color:#9a1c1f"}roups
-    -   [**Main hub**]{style="color:#9a1c1f"} for regional coordination and cooperation
-    -   Composed of experts appointed by Member States (e.g. MS' national correspondents and EU Commission).
-    -   [**Continuous**]{style="color:#9a1c1f"} process
-    -   Ob7 is involve in the RCG Large Pelagics<br/> [(https://www.fisheries-rcg.eu/rcg-lp/)](https://www.fisheries-rcg.eu/rcg-lp/){target="_blank"}
--   Aim: to move from a [**"national"**]{style="color:#9a1c1f"} to a [**"regional"**]{style="color:#9a1c1f"} level.
+- [**R**]{style="color:#9a1c1f"}egional [**C**]{style="color:#9a1c1f"}oordination [**G**]{style="color:#9a1c1f"}roups
+    - [**Main hub**]{style="color:#9a1c1f"} for regional coordination and cooperation
+    - Composed of experts appointed by Member States
+    - [**Continuous**]{style="color:#9a1c1f"} process
+    - Ob7 is involve in the RCG Large Pelagics [(https://www.fisheries-rcg.eu/rcg-lp/)](https://www.fisheries-rcg.eu/rcg-lp/){target="_blank"}
+- Aim: to move from a [**"national"**]{style="color:#9a1c1f"} to a [**"regional"**]{style="color:#9a1c1f"} level.
 
-![](images/rcg_lp.png){.absolute top="350" left="700" width="30%"}
+![](images/rcg_lp.png){.absolute top="70" left="650" width="35%"}
 
 ## One specific characteristic
 
@@ -524,50 +517,48 @@ The [**I**]{style="color:#9a1c1f"}nternational [**C**]{style="color:#9a1c1f"}omm
 
 ::: columns
 ::: {.column width="70%"}
--   Each entity negotiates [**on its side**]{style="color:#9a1c1f"} and is responsible for providing data
--   The EU :
-    -   [**coordinates**]{style="color:#9a1c1f"} all these tasks (for [**RFMOs**]{style="color:#9a1c1f"})
-    -   [**guarantees**]{style="color:#9a1c1f"} the monitoring of the fishing quota(s) by European fishermen
-    -   gives more [**impact**]{style="color:#9a1c1f"} on the international scene
+- Normally, each entity negotiates [**on its side**]{style="color:#9a1c1f"} and is responsible for providing data
+- In the case of the EU 
+    - [**coordination**]{style="color:#9a1c1f"} of all tasks (intermediary with RFMOs)
+    - [**guarantees**]{style="color:#9a1c1f"} the monitoring of the fishing quota(s) by European fishermen
+    - gives more [**impact**]{style="color:#9a1c1f"} on the international scene
 :::
 
 ::: {.column width="30%"}
-![](images/dgampa.jpg){.absolute top="150" left="925" width="10%"} ![](images/france.png){.absolute top="170" left="800" width="10%"} ![](images/dgmare.png){.absolute top="300" left="925" width="10%"} ![](images/dcf.png){.absolute top="300" left="800" width="10%"} ![](images/iotc_logo.png){.absolute top="410" left="865" width="10%"}
+![](images/dcf.png){.absolute top="200" left="850" width="10%"}
+![](images/dgmare.png){.absolute top="380" left="850" width="10%"}
+
 :::
 :::
 
 ## Research support
 
-### [Projects]{style="color:#00a9d6"}
+### [Involving in projects]{style="color:#00a9d6"}
 
 ::: columns
 ::: {.column width="70%"}
--   Project FISHN'CO: Strengthening EU-MAP data collection by developing Regional Work Plans for the Regional Coordination Groups (RCG) NA NS & EA, Baltic and Large Pelagics and Economics Issues.<br/> [https://www.fisheries-rcg.eu/fishnco/](https://www.fisheries-rcg.eu/fishnco/){target="_blank"}
--   Project SECWEB: Developing mechanisms to support the planning and execution of administrative tasks and the branding and online visibility of the Regional Coordination Groups (RCGs), with the aim to establish a long-term supportive structure (SECWEB).<br/> [https://www.fisheries-rcg.eu/secweb/](https://www.fisheries-rcg.eu/secweb/){target="_blank"}
+Project FISHN'CO, [https://www.fisheries-rcg.eu/fishnco/](https://www.fisheries-rcg.eu/fishnco/)
+<br/>
+<br/>
+<br/>
+Project SECWEB, [https://www.fisheries-rcg.eu/secweb/](https://www.fisheries-rcg.eu/secweb/)
+<br/>
+<br/>
+<br/>
+Project CECOFAD et CECOFAD2 
+<br/>
+<br/>
+<br/>
+... 
 :::
 
 ::: {.column width="30%"}
-![](images/fishnco.png){.absolute top="230" left="800" width="23%"} ![](images/secweb.png){.absolute top="415" left="800" width="23%"}
+![](images/fishnco.png){.absolute top="170" left="800" width="18%"}
+![](images/secweb.png){.absolute top="270" left="800" width="18%"}
+![](images/logo_cecofad.png){.absolute top="380" left="500" width="12%"}
+![](images/logo_cecofad2.png){.absolute top="380" left="750" width="12%"}
 :::
 :::
-
-## Other topics
-
-### [Development of a regional database for large pelagics]{style="color:#00a9d6"}
-
--   [**R**]{style="color:#9a1c1f"}egional [**D**]{style="color:#9a1c1f"}atabase & [**E**]{style="color:#9a1c1f"}stimation [**S**]{style="color:#9a1c1f"}ystem (RDBES, [https://sboxrdbes.ices.dk/](https://sboxrdbes.ices.dk/#/){target="_blank"})
-
--   Regional database for the Mediterranean and Black Seas ([**Med&BS RDBFIS**]{style="color:#9a1c1f"}, [https://medbsrdb.eu/](https://medbsrdb.eu/){target="_blank"})
-
-![](images/rdbes.png){.absolute top="325" left="200" width="60%"}
-
-## To summarise {.smaller}
-
--   The Exploited Tropical Pelagic Ecosystems Observatory is a set of resources, [**humans**]{style="color:#9a1c1f"} and [**materials**]{style="color:#9a1c1f"}, under the umbrella of the French IRD
--   Its aims are to [**collecting**]{style="color:#9a1c1f"}, [**storing**]{style="color:#9a1c1f"}, [**processing**]{style="color:#9a1c1f"} and [**sharing**]{style="color:#9a1c1f"} data focusing on the French tuna fisheries in the Atlantic and Indian Oceans
--   Furthermore, he provides support and expertise among the [**RFMO**]{style="color:#9a1c1f"}s ([**R**]{style="color:#9a1c1f"}egional [**F**]{style="color:#9a1c1f"}isheries [**M**]{style="color:#9a1c1f"}anagement [**O**]{style="color:#9a1c1f"}rganisations) and [**partners**]{style="color:#9a1c1f"} (Spanish Institute of Oceanography, Seychelles Fishing Authority, ...)
-
-![](images/iccat_logo.jpg){.absolute top="400" left="50" width="15%"} ![](images/iotc_logo.png){.absolute top="400" left="350" width="11%"} ![](images/ieo_logo.png){.absolute top="400" left="600" width="14%"} ![](images/logo_sfa.png){.absolute top="400" left="850" width="18%"}
 
 ##  {background-image="images/end_page.png"}
 
