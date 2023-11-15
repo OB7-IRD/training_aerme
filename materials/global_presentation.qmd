@@ -15,7 +15,25 @@ editor: visual
 
 [Tropical Tuna Fisheries]{style="color:#ffffff; font-size: 2em"}
 
-[From data to management measures, a challenge for sustainable exploitation]{style="color:#ffffff; font-size: 1.80em"} <br/> <br/> <br/> <br/> [Océane Bouhineau (oceane.bouhineau\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Théotime Fily (theotime.fily\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Clara Lerebourg (clara.lerebourg\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> [Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} <br/> <br/> <br/> <br/> [© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.4em"}
+[From data to management measures, a challenge for sustainable exploitation]{style="color:#ffffff; font-size: 1.80em"} 
+<br/> 
+<br/> 
+<br/>
+<br/> 
+[Océane Bouhineau (oceane.bouhineau\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} 
+<br/> 
+[Mathieu Depetris (mathieu.depetris\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"}
+<br/> 
+[Théotime Fily (theotime.fily\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} 
+<br/> 
+[Clara Lerebourg (clara.lerebourg\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"} 
+<br/>
+[Esther Mollier (esther.mollier\@ird.fr)]{style="color:#ffffff; font-size: 0.75em"}
+<br/> 
+<br/>
+<br/> 
+<br/> 
+[© FADIO / IRD - Ifremer]{style="color:#ffffff; font-size: 0.4em"}
 
 ![](images/logo_obs7_pg.png){.absolute top="600" right="200" width="10%"} ![](images/logo_ird.png){.absolute top="620" right="-100" width="14%"} ![](images/logo_marbec.png){.absolute top="605" right="50" width="12%"}
 
@@ -298,13 +316,33 @@ and [**pelagic**]{style="color:#9a1c1f"} area
 
 ![](images/shark_bycatch.jpg){.absolute top="150" left="150" width="33%"} ![](images/bycatch_coryphene.jpg){.absolute top="400" left="150" width="33%"} ![](images/whale_shark_bycatch.jpg){.absolute top="150" left="550" width="36%"}
 
+
 # Data storage
 
 [Information System]{style="color:#00a9d6; font-size: 1.5em"}
 
+
 ## Data storage
 
-### To do {style="color:#00a9d6"}
+![](images/data_storage.png){.absolute top="75" left="90" width="75%"}
+![](images/blank_1.png){.absolute top="75" left="90" width="75%"}
+
+
+## Data storage
+
+![](images/data_storage.png){.absolute top="75" left="90" width="75%"}
+![](images/blank_2.png){.absolute top="75" left="90" width="75%"}
+![](images/VMS.png){.absolute top="250" left="350" width="35%"}
+
+## Data storage
+
+![](images/data_storage.png){.absolute top="75" left="90" width="75%"}
+![](images/blank_3.png){.absolute top="75" left="90" width="75%"}
+![](images/FOB.gif){.absolute top="250" left="350" width="35%"}
+
+## Data storage
+
+![](images/data_storage.png){.absolute top="75" left="90" width="75%"}
 
 # Data treatment
 
@@ -538,7 +576,7 @@ Project FISHN'CO, <https://www.fisheries-rcg.eu/fishnco/> <br/> <br/> <br/> Proj
 :::
 :::
 
-##  {background-image="images/end_page.png"}
+##  {background-image="images/en-page.jpg"}
 
 <br/> <br/> [Thank you for your attention, <br/> do you have any questions?]{style="color:#ffffff; font-size: 2.5em"}
 
