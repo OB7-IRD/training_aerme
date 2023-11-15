@@ -291,7 +291,7 @@
     "href": "materials/global_presentation.html#section-1",
     "title": "AERME training session 2023",
     "section": "",
-    "text": "Thank you for your attention,  do you have any questions?\n           © FADIO / IRD - Ifremer\n\n\n\nhttps://ob7-ird.github.io/training_aerme_new"
+    "text": "Thank you for your attention,  do you have any questions?\n           © FADIO / IRD - Ifremer\n\n\n\nhttps://ob7-ird.github.io/training_aerme/"
   },
   {
     "objectID": "index.html",
@@ -305,27 +305,55 @@
     "href": "materials/role_play_presentation.html#simulation-dune-réunion-du-rcg-lp",
     "title": "AERME training session 2023",
     "section": "Simulation d’une réunion du RCG LP",
-    "text": "Simulation d’une réunion du RCG LP\n\nNormalement réunion en anglais, la pour simplifier on passe en français\nContenu et aide disponible dans le repertoire “role_play_rcg” du Github de la formation\nDéroulement de la simualtion :\n\nCréation des groupes et distribution des fiches d’identité de chaque pays - 5min\nPrésentation du contexte, ouvertures et des éléments support pour vos discussions - 10min\nDiscussion en groupe - 15min\nDiscussions entre les participants - 30min\nDébriefing et comparaison avec la réalité - 30min"
+    "text": "Simulation d’une réunion du RCG LP\nNormalement réunion en anglais, pour simplifier nous ferons la simulation en français\nDéroulement de la simulation :\n\nPrésentation du contexte - 10min\nVisionnage d’une video - 5min\nCréation des groupes et distribution des fiches d’identité de chaque pays - 5min\nDiscussion en groupe - 30min\nDiscussions entre les participants - 30min\nDébriefing et comparaison avec la réalité - 30min"
   },
   {
     "objectID": "materials/role_play_presentation.html#contexte",
     "href": "materials/role_play_presentation.html#contexte",
     "title": "AERME training session 2023",
     "section": "Contexte",
-    "text": "Contexte\n\nRCG : “Regional Coordination Group”, groupe de coordination régional\nObjectifs\n\naméliorer la coordination, au sens large et au niveau européen, de le collecte de données associé aux pécheries\nIntermédiaire entre le niveau “national” et “internationnal”\nPassage d’une dynamique “nationale” à une dynamique “regionale”\n\n6 actuellement en activité\n\nRCG NANSEA : Groupe de coordination régionale pour l’Atlantique Nord, la mer du Nord et l’Arctique oriental.\nRCG Baltic : Groupe de coordination régionale pour la Baltique.\nRCG Med&BS : Groupe de coordination régionale pour la Méditerranée et la mer Noire.\nRCG ECON : groupe de coordination régionale sur les questions économiques et groupe pan-régional qui s’occupent de la collecte de données socio-économiques.\nRCG LP : groupe de coordination régionale pour les grands pélagiques.\nRCG LDF : groupe de coordination régionale pour la pêche à longue distance.\n\nComposé des pays européens concernés par la thématique, des utilisateurs finaux des données et des pays tiers"
+    "text": "Contexte\nC’est quoi un RCG ?\nRCG pour Regional Coordination Group\nPrincipal centre de coordination et de coopération régionales portant sur la collecte des données de la pêche\nAu premier abord “pour” les pays européens mais inclusions des pays tiers sur certains sujets/thématique\nIntermédiaire entre les pays et les ORGPs\nStructure fédératrice, notamment vis à vis des groupes de travail"
   },
   {
-    "objectID": "materials/role_play_presentation.html#sujet",
-    "href": "materials/role_play_presentation.html#sujet",
+    "objectID": "materials/role_play_presentation.html#contexte-1",
+    "href": "materials/role_play_presentation.html#contexte-1",
     "title": "AERME training session 2023",
-    "section": "Sujet",
-    "text": "Sujet\n\nVotre objectif\n\nTrouver un consensus sur le développement d’une base de données régionale pour le RCG LP\nPour simplifier on oublie tous les aspects techniques liée aux bases de données\n\nAxe principal\n\nVolonté commune d’avancer sur le sujet\nN’oubliez pas d’être bienveillant et constructifs entre vous !"
+    "section": "Contexte",
+    "text": "Contexte\nOk mais ça sert à quoi ?\nObjectif prinicipal : passer d’une dynamique nationale à une dynamique régionale\nActuellement 6 RCGs"
   },
   {
-    "objectID": "materials/role_play_presentation.html#pour-vous-guider",
-    "href": "materials/role_play_presentation.html#pour-vous-guider",
+    "objectID": "materials/role_play_presentation.html#contexte-2",
+    "href": "materials/role_play_presentation.html#contexte-2",
+    "title": "AERME training session 2023",
+    "section": "Contexte",
+    "text": "Contexte\nComposition de notre RCG LP\n9 pays européens ainsi que des utilisateurs finaux, des pays tiers et des membres de la commission européenne"
+  },
+  {
+    "objectID": "materials/role_play_presentation.html#objectif-de-la-simulation",
+    "href": "materials/role_play_presentation.html#objectif-de-la-simulation",
+    "title": "AERME training session 2023",
+    "section": "Objectif de la simulation",
+    "text": "Objectif de la simulation\nTrouver un consensus sur le développement d’une base de données régionale pour notre RCG\nIntérêts sous-jacents :\n\nstockage des données des grands pélagiques sous un même format à l’échelle régionale\nouvrir des opportunités de “processus” appliqué de manière commune (traitements, contrôle qualité, livraison de données …)"
+  },
+  {
+    "objectID": "materials/role_play_presentation.html#moteur-de-vos-discussions",
+    "href": "materials/role_play_presentation.html#moteur-de-vos-discussions",
+    "title": "AERME training session 2023",
+    "section": "Moteur de vos discussions",
+    "text": "Moteur de vos discussions\nVolonté commune d’avancer sur le sujet\nPour simplifier on oublie tous les aspects techniques liée aux bases de données\nN’oubliez pas d’être bienveillant et constructifs entre vous !\nÀ la fin de la simulation, on vous montrera ce qui s’est réellement passé sur ce sujet et où nous en sommes\nÀ vous de vous montrer plus ingénieux que nous :)"
+  },
+  {
+    "objectID": "materials/role_play_presentation.html#video-de-presentation-du-projet-secweb-5min",
+    "href": "materials/role_play_presentation.html#video-de-presentation-du-projet-secweb-5min",
+    "title": "AERME training session 2023",
+    "section": "Video de presentation du projet SECWEB [5min]",
+    "text": "Video de presentation du projet SECWEB [5min]"
+  },
+  {
+    "objectID": "materials/role_play_presentation.html#pour-vous-guider-1",
+    "href": "materials/role_play_presentation.html#pour-vous-guider-1",
     "title": "AERME training session 2023",
     "section": "Pour vous guider",
-    "text": "Pour vous guider\nAgenda de la réunion\n\nChoix du système (RDBES/RDBFIS/Autre système)\nQuels investissements humain et financier pour chaque pays ?\nPlan d’action (court, moyen et long terme)\n\n\n\n\nhttps://github.com/OB7-IRD/training_aerme"
+    "text": "Pour vous guider\nAgenda de la réunion\n\nChoix du système (RDBES/RDBFIS/Autre système)\nQuels investissements humain et financier pour chaque pays ?\nPlan d’action (court, moyen et long terme)\n\n\n\n\nhttps://ob7-ird.github.io/training_aerme/"
   }
 ]
