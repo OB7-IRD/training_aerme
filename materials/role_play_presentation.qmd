@@ -89,7 +89,7 @@ N'oubliez pas d'être [**bienveillant**]{style="color:#9a1c1f"} et [**constructi
 
 ## Video de presentation du projet SECWEB [5min]
 
-<iframe src="videos/secweb_project.mp4" width="65%" height="65%"></iframe>
+<iframe src="videos/secweb_project.mp4" width="65%" height="65%" autoplay="false"></iframe>
 
 ## Pour vous guider
 
