@@ -7,7 +7,7 @@ format:
     chalkboard: true 
     theme: template/theme_perso.scss
     logo: template/logo_ob7.png
-    footer: "[https://github.com/OB7-IRD/training_aerme](https://github.com/OB7-IRD/training_aerme)"
+    footer: "[https://ob7-ird.github.io/training_aerme/](https://ob7-ird.github.io/training_aerme/)"
 editor: visual
 ---
 
@@ -15,52 +15,86 @@ editor: visual
 
 ## Simulation d'une réunion du RCG LP {.smaller}
 
--   Normalement réunion en anglais, la pour simplifier on passe en français
--   Contenu et aide disponible dans le repertoire "role_play_rcg" du [Github](https://github.com/OB7-IRD/training_aerme){target="_blank"} de la formation
--   Déroulement de la simualtion :
-    -   Création des groupes et distribution des fiches d'identité de chaque pays - 5min
-    -   Présentation du contexte, ouvertures et des éléments support pour vos discussions - 10min
-    -   Discussion en groupe - 15min
-    -   Discussions entre les participants - 30min
-    -   Débriefing et comparaison avec la réalité - 30min
+Normalement réunion en anglais, pour simplifier nous ferons la simulation en français
 
-# Création des groupes et distribution des fiches d'identité de chaque pays
+Déroulement de la simulation :
 
-[5min]{style="color:#00a9d6; font-size: 1.5em"}
+- Présentation du contexte - 10min
+- Visionnage d'une video - 5min
+- Création des groupes et distribution des fiches d'identité de chaque pays - 5min
+- Discussion en groupe - 30min
+- Discussions entre les participants - 30min
+- Débriefing et comparaison avec la réalité - 30min
 
-# Présentation du contexte, ouvertures et des éléments support pour vos discussions
+# Présentation du contexte
 
 [10min]{style="color:#00a9d6; font-size: 1.5em"}
 
-## Contexte {.smaller}
+## Contexte
 
--   [**RCG**]{style="color:#9a1c1f"} : "Regional Coordination Group", [groupe de coordination régional](https://www.fisheries-rcg.eu/){target="_blank"}
--   [**Objectifs**]{style="color:#9a1c1f"}
-    -   améliorer la [**coordination**]{style="color:#9a1c1f"}, au sens large et au niveau [**européen**]{style="color:#9a1c1f"}, de le collecte de données associé aux pécheries
-    -   Intermédiaire entre le niveau "[**national**]{style="color:#9a1c1f"}" et "[**internationnal**]{style="color:#9a1c1f"}"
-    -   Passage d'une dynamique "[**nationale**]{style="color:#9a1c1f"}" à une dynamique "[**regionale**]{style="color:#9a1c1f"}"
--   6 actuellement en activité
-    -   RCG NANSEA : Groupe de coordination régionale pour l'Atlantique Nord, la mer du Nord et l'Arctique oriental.
-    -   RCG Baltic : Groupe de coordination régionale pour la Baltique.
-    -   RCG Med&BS : Groupe de coordination régionale pour la Méditerranée et la mer Noire.
-    -   RCG ECON : groupe de coordination régionale sur les questions économiques et groupe pan-régional qui s'occupent de la collecte de données socio-économiques.
-    -   [**RCG LP**]{style="color:#9a1c1f"} : groupe de coordination régionale pour les grands pélagiques.
-    -   RCG LDF : groupe de coordination régionale pour la pêche à longue distance.
--   [**Composé**]{style="color:#9a1c1f"} des pays européens concernés par la thématique, des utilisateurs finaux des données et des pays tiers
+### C'est quoi un RCG ? {style="color:#00a9d6; font-size: 1.5em"}
 
-## Sujet
+RCG pour [**Regional Coordination Group**]{style="color:#9a1c1f"}
 
--   Votre objectif
-    -   Trouver un [consensus]{style="color:#9a1c1f"} sur le développement d'une [base de données régionale]{style="color:#9a1c1f"} pour le RCG LP
-    -   Pour simplifier on oublie tous les [aspects techniques]{style="color:#9a1c1f"} liée aux bases de données
--   Axe [principal]{style="color:#9a1c1f"}
-    -   Volonté commune d'[avancer]{style="color:#9a1c1f"} sur le sujet
-    -   N'oubliez pas d'être [bienveillant]{style="color:#9a1c1f"} et [constructifs]{style="color:#9a1c1f"} entre vous !
+Principal centre de [**coordination**]{style="color:#9a1c1f"} et de [**coopération régionales**]{style="color:#9a1c1f"} portant sur la collecte des données de la pêche
+
+Au premier abord "pour" les [**pays européens**]{style="color:#9a1c1f"} mais inclusions des [**pays tiers**]{style="color:#9a1c1f"} sur certains sujets/thématique
+
+[**Intermédiaire**]{style="color:#9a1c1f"} entre les pays et les ORGPs
+
+Structure [**fédératrice**]{style="color:#9a1c1f"}, notamment vis à vis des groupes de travail
+
+![](images/rcg_logo.png){.absolute top="80" left="625" width="30%"}
+
+## Contexte
+
+### Ok mais ça sert à quoi ? {style="color:#00a9d6; font-size: 1.5em"}
+
+[**Objectif prinicipal**]{style="color:#9a1c1f"} : passer d'une dynamique [**nationale**]{style="color:#9a1c1f"} à une dynamique [**régionale**]{style="color:#9a1c1f"}
+
+Actuellement [**6**]{style="color:#9a1c1f"} RCGs
+
+![](images/rcgs_list.png){.absolute left="115" width="80%"} 
+
+## Contexte
+
+### Composition de notre RCG LP {style="color:#00a9d6; font-size: 1.5em"}
+
+[**9**]{style="color:#9a1c1f"} pays européens ainsi que des utilisateurs finaux, des pays tiers et des membres de la commission européenne
+
+![](images/rcglp_members.png){.absolute left="180" width="55%"}
+
+## Objectif de la simulation
+
+Trouver un [**consensus**]{style="color:#9a1c1f"} sur le développement d'une base de données régionale pour notre RCG 
+
+[**Intérêts**]{style="color:#9a1c1f"} sous-jacents :
+
+- stockage des données des grands pélagiques sous un [**même format**]{style="color:#9a1c1f"} à l'échelle régionale
+- [**ouvrir des opportunités**]{style="color:#9a1c1f"} de "processus" appliqué de [**manière commune**]{style="color:#9a1c1f"} (traitements, contrôle qualité, livraison de données ...)
+
+## Moteur de vos discussions
+
+Volonté commune d'[**avancer**]{style="color:#9a1c1f"} sur le sujet
+
+Pour simplifier on oublie tous les [**aspects techniques**]{style="color:#9a1c1f"} liée aux bases de données
+
+N'oubliez pas d'être [**bienveillant**]{style="color:#9a1c1f"} et [**constructifs**]{style="color:#9a1c1f"} entre vous !
+
+À la fin de la simulation, on vous montrera ce qui s'est réellement passé sur ce sujet et où nous en sommes
+
+À vous de vous montrer plus ingénieux que nous :)
+
+# Pour vous guider
+
+## Video de presentation du projet SECWEB [5min]
+
+<iframe src="videos/secweb_project.mp4" width="65%" height="65%"></iframe>
 
 ## Pour vous guider
 
 ### [Agenda de la réunion]{style="color:#00a9d6"}
 
--   Choix du système (RDBES/RDBFIS/Autre système)
--   Quels investissements humain et financier pour chaque pays ?
--   Plan d'action (court, moyen et long terme)
+-  Choix du système (RDBES/RDBFIS/Autre système)
+-  Quels investissements humain et financier pour chaque pays ?
+-  Plan d'action (court, moyen et long terme)
