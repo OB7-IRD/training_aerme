@@ -4,6 +4,20 @@ title: "\"Approche Écosystémique des Ressources Marines Exploitées\" (AERME)"
 
 This website gather all materials related to the 2023 module AERME for the topic session "Les pêcheries thonières tropicales : des données aux mesures de gestion, un défi pour l'exploitation durable".
 
+The 2023 session will be organised through the following architecture:
+
+- An introduction presentation of 45 minutes for summary of the global work of the IRD's Exploited Tropical Pelagic Ecosystems Observatory and how this work participate in the global fisheries stock assessment and management. 
+- A simulation (2 hours in total) of a meeting of the Regional Coordination Group on Large Pelagics. During this task, you'll be placed in the skin of one of the group's participants, and you'll have to work collectively with the other participants on a specific topic.
+
+Furthermore, presentations will be available through the website in html format. If you want to download these presentations in pdf format, you can use the following command line under an R console.
+
+```{r html to pdf conversion, include=TRUE, eval=FALSE}
+install.packages("pagedown")
+pagedown::chrome_print(input = "html_link_of_the_presentation")
+# for example pagedown::chrome_print(input = "https://ob7-ird.github.io/training_aerme/materials/global_presentation.html")
+```
+
+
 Contributors contacts:
 
 -   Océane Bouhineau (oceane.bouhineau\@ird.fr)

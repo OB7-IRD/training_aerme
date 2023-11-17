@@ -376,7 +376,7 @@ Tools then [**performs checks to highlight errors**]{style="color:#9a1c1f"} so t
 :::
 
 ::: {.column width="50%"}
-![](images/Exemple_AkadoR.png){.absolute top="110"}
+![](images/exemple_akado_r.png){.absolute top="110"}
 :::
 :::
 
@@ -396,7 +396,7 @@ Tools then [**performs checks to highlight errors**]{style="color:#9a1c1f"} so t
 :::
 
 ::: {.column width="50%"}
-![](images/Exemple_AkadoR_bis.png){.absolute top="110"}
+![](images/exemple_akado_r_bis.png){.absolute top="110"}
 :::
 :::
 
