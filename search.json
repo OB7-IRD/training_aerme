@@ -305,7 +305,7 @@
     "href": "materials/role_play_presentation.html#simulation-dune-réunion-du-rcg-lp",
     "title": "AERME training session 2023",
     "section": "Simulation d’une réunion du RCG LP",
-    "text": "Simulation d’une réunion du RCG LP\nNormalement réunion en anglais, pour simplifier nous ferons la simulation en français\nDéroulement de la simulation :\n\nPrésentation du contexte - 10min\nVisionnage d’une video - 5min\nCréation des groupes et distribution des fiches d’identité de chaque pays - 5min\nDiscussion en groupe - 30min\nDiscussions entre les participants - 30min\nDébriefing et comparaison avec la réalité - 30min"
+    "text": "Simulation d’une réunion du RCG LP\nNormalement réunion en anglais, pour simplifier nous ferons la simulation en français\nDéroulement de la simulation :\n\nPrésentation du contexte - 15min\nCréation des groupes et distribution des fiches d’identité de chaque pays - 5min\nDiscussion en groupe - 30min\nDiscussions entre les participants - 30min\nDébriefing et comparaison avec la réalité - 30min"
   },
   {
     "objectID": "materials/role_play_presentation.html#contexte",
@@ -343,17 +343,24 @@
     "text": "Moteur de vos discussions\nVolonté commune d’avancer sur le sujet\nPour simplifier on oublie tous les aspects techniques liée aux bases de données\nN’oubliez pas d’être bienveillant et constructifs entre vous !\nÀ la fin de la simulation, on vous montrera ce qui s’est réellement passé sur ce sujet et où nous en sommes\nÀ vous de vous montrer plus ingénieux que nous :)"
   },
   {
-    "objectID": "materials/role_play_presentation.html#video-de-presentation-du-projet-secweb-5min",
-    "href": "materials/role_play_presentation.html#video-de-presentation-du-projet-secweb-5min",
+    "objectID": "materials/role_play_presentation.html#quelques-regles",
+    "href": "materials/role_play_presentation.html#quelques-regles",
     "title": "AERME training session 2023",
-    "section": "Video de presentation du projet SECWEB [5min]",
-    "text": "Video de presentation du projet SECWEB [5min]"
+    "section": "Quelques regles",
+    "text": "Quelques regles\nChaque pays doit donner son avis et donc tout le monde doit intervenir :)\nPour demander la parole on leve la main\nNe paniqué pas, l’animateur est là pour guider la réunion (ainsi que vos “petites voies internes”)\nIl n’y a pas de bonne ou de mauvaise solution, faite ce qui vous semble judicieux"
   },
   {
-    "objectID": "materials/role_play_presentation.html#pour-vous-guider-1",
-    "href": "materials/role_play_presentation.html#pour-vous-guider-1",
+    "objectID": "materials/role_play_presentation.html#video-de-presentation-du-projet-secweb",
+    "href": "materials/role_play_presentation.html#video-de-presentation-du-projet-secweb",
     "title": "AERME training session 2023",
-    "section": "Pour vous guider",
-    "text": "Pour vous guider\nAgenda de la réunion\n\nChoix du système (RDBES/RDBFIS/Autre système)\nQuels investissements humain et financier pour chaque pays ?\nPlan d’action (court, moyen et long terme)\n\n\n\n\nhttps://ob7-ird.github.io/training_aerme/"
+    "section": "Video de presentation du projet SECWEB",
+    "text": "Video de presentation du projet SECWEB\n\n\n\nVotre navigateur ne prend pas en charge la balise vidéo."
+  },
+  {
+    "objectID": "materials/role_play_presentation.html#objet-de-la-réunion",
+    "href": "materials/role_play_presentation.html#objet-de-la-réunion",
+    "title": "AERME training session 2023",
+    "section": "Objet de la réunion",
+    "text": "Objet de la réunion\nDéfinir les orientations en terme de développement concernant notre future base de données régionale pour les données des grands pélagiques\nAgenda de la réunion\n\nChoix du système (RDBES/RDBFIS/Autre système)\nQuels investissements humain et financier pour chaque pays ?\nPlan d’action (court, moyen et long terme)\n\n\n\n\nhttps://ob7-ird.github.io/training_aerme/"
   }
 ]
