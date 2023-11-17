@@ -11,7 +11,7 @@ format:
 editor: visual
 ---
 
-# Jeu de rôle
+# Role play
 
 ## Simulation d'une réunion du RCG LP {.smaller}
 
@@ -19,16 +19,15 @@ Normalement réunion en anglais, pour simplifier nous ferons la simulation en fr
 
 Déroulement de la simulation :
 
-- Présentation du contexte - 10min
-- Visionnage d'une video - 5min
-- Création des groupes et distribution des fiches d'identité de chaque pays - 5min
-- Discussion en groupe - 30min
-- Discussions entre les participants - 30min
-- Débriefing et comparaison avec la réalité - 30min
+-   Présentation du contexte - 15min
+-   Création des groupes et distribution des fiches d'identité de chaque pays - 5min
+-   Discussion en groupe - 30min
+-   Discussions entre les participants - 30min
+-   Débriefing et comparaison avec la réalité - 30min
 
 # Présentation du contexte
 
-[10min]{style="color:#00a9d6; font-size: 1.5em"}
+[15min]{style="color:#00a9d6; font-size: 1.5em"}
 
 ## Contexte
 
@@ -54,7 +53,7 @@ Structure [**fédératrice**]{style="color:#9a1c1f"}, notamment vis à vis des g
 
 Actuellement [**6**]{style="color:#9a1c1f"} RCGs
 
-![](images/rcgs_list.png){.absolute left="115" width="80%"} 
+![](images/rcgs_list.png){.absolute left="115" width="80%"}
 
 ## Contexte
 
@@ -66,12 +65,12 @@ Actuellement [**6**]{style="color:#9a1c1f"} RCGs
 
 ## Objectif de la simulation
 
-Trouver un [**consensus**]{style="color:#9a1c1f"} sur le développement d'une base de données régionale pour notre RCG 
+Trouver un [**consensus**]{style="color:#9a1c1f"} sur le développement d'une base de données régionale pour notre RCG
 
 [**Intérêts**]{style="color:#9a1c1f"} sous-jacents :
 
-- stockage des données des grands pélagiques sous un [**même format**]{style="color:#9a1c1f"} à l'échelle régionale
-- [**ouvrir des opportunités**]{style="color:#9a1c1f"} de "processus" appliqué de [**manière commune**]{style="color:#9a1c1f"} (traitements, contrôle qualité, livraison de données ...)
+-   stockage des données des grands pélagiques sous un [**même format**]{style="color:#9a1c1f"} à l'échelle régionale
+-   [**ouvrir des opportunités**]{style="color:#9a1c1f"} de "processus" appliqué de [**manière commune**]{style="color:#9a1c1f"} (traitements, contrôle qualité, livraison de données ...)
 
 ## Moteur de vos discussions
 
@@ -87,14 +86,43 @@ N'oubliez pas d'être [**bienveillant**]{style="color:#9a1c1f"} et [**constructi
 
 # Pour vous guider
 
-## Video de presentation du projet SECWEB [5min]
+## Quelques regles
 
-<iframe src="videos/secweb_project.mp4" width="65%" height="65%" autoplay="false"></iframe>
+Chaque pays doit donner son avis et donc [**tout le monde doit intervenir**]{style="color:#9a1c1f"} :)
 
-## Pour vous guider
+Pour [**demander la parole**]{style="color:#9a1c1f"} on leve la main
 
-### [Agenda de la réunion]{style="color:#00a9d6"}
+[**Ne paniqué pas**]{style="color:#9a1c1f"}, l'animateur est là pour guider la réunion (ainsi que vos "petites voies internes")
 
--  Choix du système (RDBES/RDBFIS/Autre système)
--  Quels investissements humain et financier pour chaque pays ?
--  Plan d'action (court, moyen et long terme)
+Il n'y a pas de bonne ou de mauvaise solution, faite ce qui vous semble [**judicieux**]{style="color:#9a1c1f"}
+
+## Video de presentation du projet SECWEB
+
+<section>
+    <video width="640" height="360" controls>
+        <source src="videos/secweb_project.mp4">
+        Votre navigateur ne prend pas en charge la balise vidéo.
+    </video>
+</section>
+
+# Création des groupes et distribution des fiches d'identité de chaque pays
+
+[5min]{style="color:#00a9d6; font-size: 1.5em"}
+
+# Discussion en groupe
+
+[30min]{style="color:#00a9d6; font-size: 1.5em"}
+
+# Seconde réunion du groupe de coordination régional sur les grands pélagiques
+
+[6 decembre 2023]{style="color:#00a9d6; font-size: 1.5em"}
+
+## Objet de la réunion
+
+Définir les orientations en terme de développement concernant notre future base de données régionale pour les données des grands pélagiques
+
+[**Agenda de la réunion**]{style="color:#9a1c1f"}
+
+-   Choix du système (RDBES/RDBFIS/Autre système)
+-   Quels investissements humain et financier pour chaque pays ?
+-   Plan d'action (court, moyen et long terme)
