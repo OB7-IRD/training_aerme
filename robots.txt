@@ -1,1 +1,1 @@
-Sitemap: https://OB7-IRD.github.io/training_aerme/sitemap.xml
+Sitemap: https://github.com/OB7-IRD/training_aerme/sitemap.xml

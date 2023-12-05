@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "“Approche Écosystémique des Ressources Marines Exploitées” (AERME)",
-    "section": "",
-    "text": "This website gather all materials related to the 2023 module AERME for the topic session “Les pêcheries thonières tropicales : des données aux mesures de gestion, un défi pour l’exploitation durable”.\nThe 2023 session will be organised through the following architecture:\n\nAn introduction presentation of 45 minutes for summary of the global work of the IRD’s Exploited Tropical Pelagic Ecosystems Observatory and how this work participate in the global fisheries stock assessment and management.\nA simulation (2 hours in total) of a meeting of the Regional Coordination Group on Large Pelagics. During this task, you’ll be placed in the skin of one of the group’s participants, and you’ll have to work collectively with the other participants on a specific topic.\n\nFurthermore, presentations will be available through the website in html format. If you want to download these presentations in pdf format, you can use the following command line under an R console.\n\ninstall.packages(\"pagedown\")\npagedown::chrome_print(input = \"html_link_of_the_presentation\")\n# for example pagedown::chrome_print(input = \"https://ob7-ird.github.io/training_aerme/materials/global_presentation.html\")\n\nContributors contacts:\n\nOcéane Bouhineau (oceane.bouhineau@ird.fr)\nMathieu Depetris (mathieu.depetris@ird.fr)\nAntoine Duparc (antoine.duparc@ird.fr)\nThéotime Fily (theotime.fily@ird.fr)\nClara Lerebourg (clara.lerebourg@ird.fr)\nEsther Mollier (esther.mollier@ird.fr)"
-  },
-  {
     "objectID": "materials/global_presentation.html#what-is-it",
     "href": "materials/global_presentation.html#what-is-it",
     "title": "AERME training session 2023",
@@ -299,6 +292,13 @@
     "title": "AERME training session 2023",
     "section": "",
     "text": "Thank you for your attention,  do you have any questions?\n           © FADIO / IRD - Ifremer\n\n\n\nhttps://ob7-ird.github.io/training_aerme/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "“Approche Écosystémique des Ressources Marines Exploitées” (AERME)",
+    "section": "",
+    "text": "This website gather all materials related to the 2023 module AERME for the topic session “Les pêcheries thonières tropicales : des données aux mesures de gestion, un défi pour l’exploitation durable”.\nThe 2023 session will be organised through the following architecture:\n\nAn introduction presentation of 45 minutes for summary of the global work of the IRD’s Exploited Tropical Pelagic Ecosystems Observatory and how this work participate in the global fisheries stock assessment and management.\nA simulation (2 hours in total) of a meeting of the Regional Coordination Group on Large Pelagics. During this task, you’ll be placed in the skin of one of the group’s participants, and you’ll have to work collectively with the other participants on a specific topic.\n\nFurthermore, presentations will be available through the website in html format. If you want to download these presentations in pdf format, you can use the following command line under an R console.\n\ninstall.packages(\"pagedown\")\npagedown::chrome_print(input = \"html_link_of_the_presentation\")\n# for example pagedown::chrome_print(input = \"https://ob7-ird.github.io/training_aerme/materials/global_presentation.html\")\n\nContributors contacts:\n\nOcéane Bouhineau (oceane.bouhineau@ird.fr)\nMathieu Depetris (mathieu.depetris@ird.fr)\nAntoine Duparc (antoine.duparc@ird.fr)\nThéotime Fily (theotime.fily@ird.fr)\nClara Lerebourg (clara.lerebourg@ird.fr)\nEsther Mollier (esther.mollier@ird.fr)"
   },
   {
     "objectID": "materials/role_play_presentation.html#simulation-dune-réunion-du-rcg-lp",
